@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "carrera": "INA",
+        "grupos": [
+            {
+                "nombre": "INA0722",
+                "asignaturas": [
+                    "Lenguaje de Acceso a Bases de Datos",
+                    "Cálculo Diferencial e Integral",
+                    "Programación Orientada a Objetos II",
+                    "Análisis Lógico"
+                ],
+                "profesores": [
+                    "Juan Ángel Calvillo Pérez",
+                    "Néstor Darwin Pérez",
+                    "Irving Rocha Reséndiz",
+                    "Marco Antonio Ortiz Castillo"
+                ],
+                "links": [
+                    "https://forms.gle/PWuAGjsxmNZ6rBQw7",
+                    "https://forms.gle/rXC2Z7vnPDJL6DWK6",
+                    "https://forms.gle/cDziZ3kXD5mjpp4M7",
+                    "https://forms.gle/cWbUcZoWCvJc49th7"
+                ]
+            },
+            {
+                "nombre": "INA0122",
+                "asignaturas": [
+                    "Reconocimiento de Patrones",
+                    "Modelado de Negocios",
+                    "Portabilidad Avanzada",
+                    "Ciencia de Datos"
+                ],
+                "profesores": [
+                    "Héctor Maldonado Loyo",
+                    "Tamara Robles Camacho",
+                    "Luis Josué Díaz Álvarez",
+                    "César Antonio Ríos Olivares"
+                ],
+                "links": [
+                    "https://forms.gle/iqzu7rc6r7a9TigSA",
+                    "https://forms.gle/8jno3gEWoNVPCQ8ZA",
+                    "https://forms.gle/mhCarRPfRzUuab1o8",
+                    "https://forms.gle/bBvfQ42wWH6da5iP9"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "carrera": "PRV",
+        "grupos": [
+            {
+                "nombre": "PRV1021",
+                "asignaturas": [
+                    "Física para videojuegos II",
+                    "Programación Orientada a Objetos II",
+                    "Narrativa Multilineal",
+                    "Videojuegos para Móviles",
+                    "Creatividad"
+                ],
+                "profesores": [
+                    "Rogelio Trejo Pérez",
+                    "Marco Antonio García Rodríguez",
+                    "Josué Rodrigo Contreras",
+                    "Irving Rocha Reséndiz",
+                    "Tamara Robles Camacho"
+                ],
+                "links": [
+                    "https://forms.gle/8mMV5ot2HxNKsLFK6",
+                    "https://forms.gle/ftuRgE8ejnXPY6e9A",
+                    "https://forms.gle/YGWpQboaBxFDEN1P9",
+                    "https://forms.gle/cDziZ3kXD5mjpp4M7",
+                    "https://forms.gle/8jno3gEWoNVPCQ8ZA"
+                ]
+            },
+            {
+                "nombre": "PRV1022",
+                "asignaturas": [
+                    "Fundamentos de Programación",
+                    "Matemáticas II",
+                    "Semiótica",
+                    "Matemáticas Discretas"
+                ],
+                "profesores": [
+                    "Rogelio Trejo Pérez",
+                    "Néstor Darwin Pérez",
+                    "Luis Guillermo Ortega Cué",
+                    "Marco Antonio Ortiz Castillo"
+                ],
+                "links": [
+                    "https://forms.gle/8mMV5ot2HxNKsLFK6",
+                    "https://forms.gle/rXC2Z7vnPDJL6DWK6",
+                    "https://forms.gle/UH58xowiMHsocMXw6",
+                    "https://forms.gle/cWbUcZoWCvJc49th7"
+                ]
+            },
+            {
+                "nombre": "PR0722",
+                "asignaturas": [
+                    "Programación Estructurada I"
+                ],
+                "profesores": [
+                    "Rogelio Trejo Pérez"
+                ],
+                "links": [
+                    "https://forms.gle/8mMV5ot2HxNKsLFK6"
+                ]
+            },
+            {
+                "nombre": "PRV0122",
+                "asignaturas": [
+                    "Física para videojuegos I",
+                    "Sistemas de Scripting",
+                    "Modelado de Negocios",
+                    "Programacion Orientada a Objetos I"
+                ],
+                "profesores": [
+                    "Rogelio Trejo Pérez",
+                    "Marco Antonio García Rodríguez",
+                    "Tamara Robles Camacho",
+                    "David Amado Espinoza Garduño"
+                ],
+                "links": [
+                    "https://forms.gle/8mMV5ot2HxNKsLFK6",
+                    "https://forms.gle/ftuRgE8ejnXPY6e9A",
+                    "https://forms.gle/8jno3gEWoNVPCQ8ZA",
+                    "https://forms.gle/YsPZbLMApS2xSEsh8"
+                ]
+            },
+            {
+                "nombre": "PRV0722",
+                "asignaturas": [
+                    "Cálculo Diferencial e Integral I",
+                    "Scripting y Prototipos"
+                ],
+                "profesores": [
+                    "Néstor Darwin Pérez",
+                    "Héctor Daniel Muñoz Urby"
+                ],
+                "links": [
+                    "https://forms.gle/rXC2Z7vnPDJL6DWK6",
+                    "https://forms.gle/TSjQEThCRrwufa6a7"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "carrera": "CIA",
+        "grupos": [
+            {
+                "nombre": "CIA0122",
+                "asignaturas": [
+                    "Seguridad en Bases de Datos",
+                    "Probabilidad y Estadística",
+                    "Criptografía I"
+                ],
+                "profesores": [
+                    "Juan Ángel Calvillo Pérez",
+                    "Abraham Aldair Álvarez Galicia",
+                    "Miguel Ángel Márquez Hidalgo"
+                ],
+                "links": [
+                    "https://forms.gle/PWuAGjsxmNZ6rBQw7",
+                    "https://forms.gle/8Y9ko2k7hYSo9HZy6",
+                    "https://forms.gle/FkvthSWRLTCDLtSF8"
+                ]
+            },
+            {
+                "nombre": "CIA1022",
+                "asignaturas": [
+                    "Redes de Computadoras y Fortalecimiento de Sistemas Operativos",
+                    "Arquitectura de Sistemas de Seguridad Física",
+                    "Redes de Computadoras y Fortalecimiento de Sistemas Operativos",
+                    "Matemáticas Discretas"
+                ],
+                "profesores": [
+                    "Luis Arturo Ruíz Velázquez",
+                    "Silverio Zambrano González",
+                    "Néstor Darwin Pérez",
+                    "Marco Antonio Ortiz Castillo"
+                ],
+                "links": [
+                    "https://forms.gle/Z3vAXuCznbr8waP6A",
+                    "https://forms.gle/a3MwHxnamDVz8JGz9",
+                    "https://forms.gle/rXC2Z7vnPDJL6DWK6",
+                    "https://forms.gle/cWbUcZoWCvJc49th7"
+                ]
+            },
+            {
+                "nombre": "CIA0722",
+                "asignaturas": [
+                    "Gestión de sistemas operativos",
+                    "Fundamentos de Investigación de Mercados",
+                    "Teoria de Matemáticas aplicadas a la computación",
+                    "Fundamentos de Ciberseguridad"
+                ],
+                "profesores": [
+                    "Silverio Zambrano González",
+                    "Luis Guillermo Ortega Cué",
+                    "Marco Antonio Ortiz Castillo",
+                    "Adan Gutiérrez Ramos"
+                ],
+                "links": [
+                    "https://forms.gle/a3MwHxnamDVz8JGz9",
+                    "https://forms.gle/UH58xowiMHsocMXw6",
+                    "https://forms.gle/cWbUcZoWCvJc49th7",
+                    "https://forms.gle/8yRZk15EwD1PM4f39"
+                ]
+            },
+            {
+                "nombre": "CIA1021",
+                "asignaturas": [
+                    "Calidad y Productividad en la Ingeniería",
+                    "El internet de las cosas",
+                    "Estándares y Directrices de Auditoría en Sistemas de la Información",
+                    "Criptografía II"
+                ],
+                "profesores": [
+                    "Luis Guillermo Ortega Cué",
+                    "Marco Antonio Ortiz Castillo",
+                    "Janet Cruz Puente",
+                    "Adan Gutiérrez Ramos"
+                ],
+                "links": [
+                    "https://forms.gle/UH58xowiMHsocMXw6",
+                    "https://forms.gle/cWbUcZoWCvJc49th7",
+                    "https://forms.gle/ZT4WSifn5hSa37L89",
+                    "https://forms.gle/8yRZk15EwD1PM4f39"
+                ]
+            }
+        ]
+    }
+]

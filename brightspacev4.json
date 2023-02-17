@@ -1,0 +1,3176 @@
+[
+    {
+        "id": 1,
+        "carrera": "Licenciatura en Animación y Efectos Visuales",
+        "grupos": [
+            {
+                "grupo": "AFXD0121",
+                "profesores": [
+                    {
+                        "nombre": "Ivonne Elizabeth Ariadna Castañeda Tovar",
+                        "materias": [
+                            "INTRODUCCIÓN A LA MERCADOTECNIA"
+                        ],
+                        "encuesta": "https://forms.gle/Z1UVsK1sLALTnjJMA"
+                    },
+                    {
+                        "nombre": "Rodrigo De La Vega Urrutia",
+                        "materias": [
+                            "HISTORIA DE LOS EFECTOS VISUALES"
+                        ],
+                        "encuesta": "https://forms.gle/juS5FKxrR8MKWkMGA"
+                    },
+                    {
+                        "nombre": "Ricardo Dorantes Montaño",
+                        "materias": [
+                            "MONTAJE CINEMATOGRÁFICO"
+                        ],
+                        "encuesta": "https://forms.gle/NkNH5ab5tN2SPPo19"
+                    },
+                    {
+                        "nombre": "Carlos Fernando Gamboa Verduzco",
+                        "materias": [
+                            "TIPOGRAFÍA CINÉTICA (MOTION TYPE)"
+                        ],
+                        "encuesta": "https://forms.gle/d1Yyrhp9CxMi4fkH8"
+                    },
+                    {
+                        "nombre": "Emilio Ramos Fernández",
+                        "materias": [
+                            "DISEÑO Y PRE-PRODUCCIÓN DE PROYECTO"
+                        ],
+                        "encuesta": "https://forms.gle/k3WgiAKwbbsBc7jw6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD1022.2",
+                "profesores": [
+                    {
+                        "nombre": "Manuel Alejandro Almazán Enríquez",
+                        "materias": [
+                            "FUNDAMENTOS DEL DESARROLLO VISUAL"
+                        ],
+                        "encuesta": "https://forms.gle/sbFzbizPy41a3VqS9"
+                    },
+                    {
+                        "nombre": "Antonio Camarillo Vázquez",
+                        "materias": [
+                            "LENGUAJE CINEMATOGRÁFICO"
+                        ],
+                        "encuesta": "https://forms.gle/MJ15Tz7UwJNFunYF6"
+                    },
+                    {
+                        "nombre": "Roberto Ham Pelaez",
+                        "materias": [
+                            "EFECTOS VISUALES POR SISTEMA DE CAPAS"
+                        ],
+                        "encuesta": "https://forms.gle/h1xKr4CUZZ7q21v88"
+                    },
+                    {
+                        "nombre": "Imuri Juárez Elenes",
+                        "materias": [
+                            "MODELADO DE ESCENARIOS Y OBJETOS (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/J9dvQBnzESKFNW4v8"
+                    },
+                    {
+                        "nombre": "Paulina Alejandra Ugarte Chelén",
+                        "materias": [
+                            "NARRATIVA Y DESARROLLO DE PERSONAJES"
+                        ],
+                        "encuesta": "https://forms.gle/JvjTW3bNPBU1hVRM9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0123.1",
+                "profesores": [
+                    {
+                        "nombre": "Eusebio Bañuelos González",
+                        "materias": [
+                            "FUNDAMENTOS DEL DIBUJO"
+                        ],
+                        "encuesta": "https://forms.gle/KsEv2njDFAg59DYd8"
+                    },
+                    {
+                        "nombre": "Omar Martínez Gámez",
+                        "materias": [
+                            "PRINCIPIOS DE FOTOGRAFÍA DIGITAL"
+                        ],
+                        "encuesta": "https://forms.gle/DEa2LF2vaHFsjy7C7"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": [
+                            "IMAGEN DIGITAL (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/JGypNUigNKnm2ma49"
+                    },
+                    {
+                        "nombre": "Alfredo Salomón Salazar",
+                        "materias": [
+                            "NARRATIVA AUDIOVISUAL (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/736baVXbCskFAWq69"
+                    },
+                    {
+                        "nombre": "Paulina Alejandra Ugarte Chelén",
+                        "materias": [
+                            "ESCRITURA CREATIVA"
+                        ],
+                        "encuesta": "https://forms.gle/JvjTW3bNPBU1hVRM9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0123.2",
+                "profesores": [
+                    {
+                        "nombre": "Eusebio Bañuelos González",
+                        "materias": [
+                            "FUNDAMENTOS DEL DIBUJO"
+                        ],
+                        "encuesta": "https://forms.gle/KsEv2njDFAg59DYd8"
+                    },
+                    {
+                        "nombre": "Omar Martínez Gámez",
+                        "materias": [
+                            "PRINCIPIOS DE FOTOGRAFÍA DIGITAL"
+                        ],
+                        "encuesta": "https://forms.gle/DEa2LF2vaHFsjy7C7"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": [
+                            "IMAGEN DIGITAL (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/JGypNUigNKnm2ma49"
+                    },
+                    {
+                        "nombre": "Alfredo Salomón Salazar",
+                        "materias": [
+                            "NARRATIVA AUDIOVISUAL (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/736baVXbCskFAWq69"
+                    },
+                    {
+                        "nombre": "Paulina Alejandra Ugarte Chelén",
+                        "materias": [
+                            "ESCRITURA CREATIVA"
+                        ],
+                        "encuesta": "https://forms.gle/JvjTW3bNPBU1hVRM9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0722.3",
+                "profesores": [
+                    {
+                        "nombre": "Eusebio Bañuelos González",
+                        "materias": [
+                            "DIBUJO ANATÓMICO"
+                        ],
+                        "encuesta": "https://forms.gle/KsEv2njDFAg59DYd8"
+                    },
+                    {
+                        "nombre": "Daniel Armando Cadena Llamas",
+                        "materias": [
+                            "EFFECTOS VISUALES POR SISTEMA DE NODOS (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/fZapc1iK3bPGSH297"
+                    },
+                    {
+                        "nombre": "Antonio Camarillo Vázquez",
+                        "materias": [
+                            "GUIONISMO"
+                        ],
+                        "encuesta": "https://forms.gle/MJ15Tz7UwJNFunYF6"
+                    },
+                    {
+                        "nombre": "Angel Valtierra Pillado",
+                        "materias": [
+                            "RENDERIZADO 3D (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/cYcfAKqabDxnz7zc8"
+                    },
+                    {
+                        "nombre": "Ulises Vázquez Padilla",
+                        "materias": [
+                            "ANÁLISIS DEL MOVIMIENTO CORPORAL"
+                        ],
+                        "encuesta": "https://forms.gle/LrMpUbTGPjB4r42w7"
+                    },
+                    {
+                        "nombre": "Portafolio SAE",
+                        "materias": [
+                            "PORTAFOLIO SAE"
+                        ],
+                        "encuesta": "https://forms.gle/VjninD9yTejCtqgMA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0122",
+                "profesores": [
+                    {
+                        "nombre": "Eusebio Bañuelos González",
+                        "materias": [
+                            "ANÁLISIS HISTÓRICO DE LA IMAGEN"
+                        ],
+                        "encuesta": "https://forms.gle/KsEv2njDFAg59DYd8"
+                    },
+                    {
+                        "nombre": "Emmanuel Galicia Martínez",
+                        "materias": [
+                            "DISEÑO DE LA COMUNICACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/LPD7np4p1jRs8L3z9"
+                    },
+                    {
+                        "nombre": "Roberto Ham Pelaez",
+                        "materias": [
+                            "EFECTOS VISUALES POR SISTEMA DE CAPAS"
+                        ],
+                        "encuesta": "https://forms.gle/h1xKr4CUZZ7q21v88"
+                    },
+                    {
+                        "nombre": "Imuri Juárez Elenes",
+                        "materias": [
+                            "ANIMACIÓN 3D"
+                        ],
+                        "encuesta": "https://forms.gle/J9dvQBnzESKFNW4v8"
+                    },
+                    {
+                        "nombre": "Angel Valtierra Pillado",
+                        "materias": [
+                            "SHADING AND RENDER"
+                        ],
+                        "encuesta": "https://forms.gle/cYcfAKqabDxnz7zc8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0122.2",
+                "profesores": [
+                    {
+                        "nombre": "Rodrigo De La Vega Urrutia",
+                        "materias": [
+                            "ANÁLISIS HISTÓRICO DE LA IMAGEN"
+                        ],
+                        "encuesta": "https://forms.gle/juS5FKxrR8MKWkMGA"
+                    },
+                    {
+                        "nombre": "Roberto Ham Pelaez",
+                        "materias": [
+                            "EFECTOS VISUALES POR SISTEMA DE CAPAS"
+                        ],
+                        "encuesta": "https://forms.gle/h1xKr4CUZZ7q21v88"
+                    },
+                    {
+                        "nombre": "Imuri Juárez Elenes",
+                        "materias": [
+                            "ANIMACIÓN 3D"
+                        ],
+                        "encuesta": "https://forms.gle/J9dvQBnzESKFNW4v8"
+                    },
+                    {
+                        "nombre": "José Bernardo Ledón Roig",
+                        "materias": [
+                            "DISEÑO DE LA COMUNICACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/caHiaYz27M1i8Z6n7"
+                    },
+                    {
+                        "nombre": "Angel Valtierra Pillado",
+                        "materias": [
+                            "SHADING AND RENDER"
+                        ],
+                        "encuesta": "https://forms.gle/cYcfAKqabDxnz7zc8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD1021.2",
+                "profesores": [
+                    {
+                        "nombre": "Rodrigo De La Vega Urrutia",
+                        "materias": [
+                            "HISTORIA DEL ARTE MODERNO"
+                        ],
+                        "encuesta": "https://forms.gle/juS5FKxrR8MKWkMGA"
+                    },
+                    {
+                        "nombre": "Eduardo Noel Gallardo Lara",
+                        "materias": [
+                            "MODELADO DE PERSONAJES 3D"
+                        ],
+                        "encuesta": "https://forms.gle/XsGir347r4yPc2Rb8"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": [
+                            "SIMULACIÓN DE DINAMICOS"
+                        ],
+                        "encuesta": "https://forms.gle/LSa6N4AgY9XuvidD9"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": [
+                            "TALLER DE DIBUJO DE ANIMALES"
+                        ],
+                        "encuesta": "https://forms.gle/JGypNUigNKnm2ma49"
+                    },
+                    {
+                        "nombre": "Claudio Alexis Ramírez Arreola",
+                        "materias": [
+                            "EFECTOS VISUALES POR SISTEMA DE NODOS"
+                        ],
+                        "encuesta": "https://forms.gle/8FH5AXfroHeumrLc6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0721.1",
+                "profesores": [
+                    {
+                        "nombre": "Rodrigo De La Vega Urrutia",
+                        "materias": [
+                            "TALLER DE CINE ANIMADO"
+                        ],
+                        "encuesta": "https://forms.gle/juS5FKxrR8MKWkMGA"
+                    },
+                    {
+                        "nombre": "Carlos Fernando Gamboa Verduzco",
+                        "materias": [
+                            "HISTORIA DEL CINE ANIMADO"
+                        ],
+                        "encuesta": "https://forms.gle/d1Yyrhp9CxMi4fkH8"
+                    },
+                    {
+                        "nombre": "Arturo Hernández Muñoz",
+                        "materias": [
+                            "ANIMACIÓN DE PERSONAJES 3D: MECÁNICA CORPORAL"
+                        ],
+                        "encuesta": "https://forms.gle/saAu3hDUp6cPSKsF9"
+                    },
+                    {
+                        "nombre": "Christian Esteban Rivera Aguilar",
+                        "materias": [
+                            "EFECTOS VISUALES: INTEGRACIÓN 3D"
+                        ],
+                        "encuesta": "https://forms.gle/wLo8rZihY35NUxxf8"
+                    },
+                    {
+                        "nombre": "Dulce María Romero Mier Y Terán",
+                        "materias": [
+                            "MARCO LEGAL PARA LOS NUEVOS MEDIOS"
+                        ],
+                        "encuesta": "https://forms.gle/x6Ci874apP3yQn3Q6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0721.2",
+                "profesores": [
+                    {
+                        "nombre": "Rodrigo De La Vega Urrutia",
+                        "materias": [
+                            "HISTORIA DEL CINE ANIMADO"
+                        ],
+                        "encuesta": "https://forms.gle/juS5FKxrR8MKWkMGA"
+                    },
+                    {
+                        "nombre": "Carlos Fernando Gamboa Verduzco",
+                        "materias": [
+                            "TALLER DE CINE ANIMADO"
+                        ],
+                        "encuesta": "https://forms.gle/d1Yyrhp9CxMi4fkH8"
+                    },
+                    {
+                        "nombre": "Arturo Hernández Muñoz",
+                        "materias": [
+                            "ANIMACIÓN DE PERSONAJES 3D: MECÁNICA CORPORAL"
+                        ],
+                        "encuesta": "https://forms.gle/saAu3hDUp6cPSKsF9"
+                    },
+                    {
+                        "nombre": "Christian Esteban Rivera Aguilar",
+                        "materias": [
+                            "EFECTOS VISUALES: INTEGRACIÓN 3D"
+                        ],
+                        "encuesta": "https://forms.gle/wLo8rZihY35NUxxf8"
+                    },
+                    {
+                        "nombre": "Dulce María Romero Mier Y Terán",
+                        "materias": [
+                            "MARCO LEGAL PARA LOS NUEVOS MEDIOS"
+                        ],
+                        "encuesta": "https://forms.gle/x6Ci874apP3yQn3Q6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0721.3",
+                "profesores": [
+                    {
+                        "nombre": "Rodrigo De La Vega Urrutia",
+                        "materias": [
+                            "TALLER DE CINE ANIMADO"
+                        ],
+                        "encuesta": "https://forms.gle/juS5FKxrR8MKWkMGA"
+                    },
+                    {
+                        "nombre": "Carlos Fernando Gamboa Verduzco",
+                        "materias": [
+                            "HISTORIA DEL CINE ANIMADO"
+                        ],
+                        "encuesta": "https://forms.gle/d1Yyrhp9CxMi4fkH8"
+                    },
+                    {
+                        "nombre": "Arturo Hernández Muñoz",
+                        "materias": [
+                            "ANIMACIÓN DE PERSONAJES 3D: MECÁNICA CORPORAL"
+                        ],
+                        "encuesta": "https://forms.gle/saAu3hDUp6cPSKsF9"
+                    },
+                    {
+                        "nombre": "Christian Esteban Rivera Aguilar",
+                        "materias": [
+                            "EFECTOS VISUALES: INTEGRACIÓN 3D"
+                        ],
+                        "encuesta": "https://forms.gle/wLo8rZihY35NUxxf8"
+                    },
+                    {
+                        "nombre": "Dulce María Romero Mier Y Terán",
+                        "materias": [
+                            "MARCO LEGAL PARA LOS NUEVOS MEDIOS"
+                        ],
+                        "encuesta": "https://forms.gle/x6Ci874apP3yQn3Q6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD1020.1",
+                "profesores": [
+                    {
+                        "nombre": "Ricardo Dorantes Montaño",
+                        "materias": [
+                            "DISEÑO DE GRÁFICOS EN MOVIMIENTO (MOTION DESIGN)"
+                        ],
+                        "encuesta": "https://forms.gle/NkNH5ab5tN2SPPo19"
+                    },
+                    {
+                        "nombre": "Alejandro Federico García Caballero",
+                        "materias": [
+                            "PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/cn78RuzAgVBYr6ga7"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": [
+                            "PRODUCCIÓN DE CINEMÁTICOS"
+                        ],
+                        "encuesta": "https://forms.gle/LSa6N4AgY9XuvidD9"
+                    },
+                    {
+                        "nombre": "Luis Rodrigo Muñoz Kuri",
+                        "materias": [
+                            "DISEÑO Y GESTION DE FLUJOS DE TRABAJO"
+                        ],
+                        "encuesta": "https://forms.gle/utqiNKVJo1P2TFgbA"
+                    },
+                    {
+                        "nombre": "Andreas Papacostas Quintanilla",
+                        "materias": [
+                            "PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/jY7YxFYS7VkMEXJUA"
+                    },
+                    {
+                        "nombre": "Emiliano Topete Sanz Polo",
+                        "materias": [
+                            "TALLER DE CORTOMETRAJE DE ANIMACIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/VVeVJ5x6rrj1XLvo6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD1021.1",
+                "profesores": [
+                    {
+                        "nombre": "Carlos Fernando Gamboa Verduzco",
+                        "materias": [
+                            "HISTORIA DEL ARTE MODERNO"
+                        ],
+                        "encuesta": "https://forms.gle/d1Yyrhp9CxMi4fkH8"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": [
+                            "SIMULACIÓN DE DINAMICOS"
+                        ],
+                        "encuesta": "https://forms.gle/LSa6N4AgY9XuvidD9"
+                    },
+                    {
+                        "nombre": "Imuri Juárez Elenes",
+                        "materias": [
+                            "MODELADO DE PERSONAJES 3D"
+                        ],
+                        "encuesta": "https://forms.gle/J9dvQBnzESKFNW4v8"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": [
+                            "TALLER DE DIBUJO DE ANIMALES"
+                        ],
+                        "encuesta": "https://forms.gle/JGypNUigNKnm2ma49"
+                    },
+                    {
+                        "nombre": "Claudio Alexis Ramírez Arreola",
+                        "materias": [
+                            "EFFECTOS VISUALES POR SISTEMA DE NODOS (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/8FH5AXfroHeumrLc6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0720.1",
+                "profesores": [
+                    {
+                        "nombre": "Alejandro Federico García Caballero",
+                        "materias": [
+                            "PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN II"
+                        ],
+                        "encuesta": "https://forms.gle/cn78RuzAgVBYr6ga7"
+                    },
+                    {
+                        "nombre": "Andreas Papacostas Quintanilla",
+                        "materias": [
+                            "PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN II"
+                        ],
+                        "encuesta": "https://forms.gle/jY7YxFYS7VkMEXJUA"
+                    },
+                    {
+                        "nombre": "Andrea Guadalupe Robles Jiménez",
+                        "materias": [
+                            "CIRCUITOS DE DIFUSIÓN PARA ANIMACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/mBn1kyWU3TU6HrpE6"
+                    },
+                    {
+                        "nombre": "Emiliano Topete Sanz Polo",
+                        "materias": [
+                            "TALLER DE CORTOMETRAJE DE ANIMACIÓN II"
+                        ],
+                        "encuesta": "https://forms.gle/VVeVJ5x6rrj1XLvo6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0722.1",
+                "profesores": [
+                    {
+                        "nombre": "Antonio Camarillo Vázquez",
+                        "materias": [
+                            "GUIONISMO"
+                        ],
+                        "encuesta": "https://forms.gle/MJ15Tz7UwJNFunYF6"
+                    },
+                    {
+                        "nombre": "Adrián García Pascalín",
+                        "materias": [
+                            "EFFECTOS VISUALES POR SISTEMA DE NODOS (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/a5HENzZYrSemDBt57"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": [
+                            "DIBUJO ANATÓMICO"
+                        ],
+                        "encuesta": "https://forms.gle/JGypNUigNKnm2ma49"
+                    },
+                    {
+                        "nombre": "Angel Valtierra Pillado",
+                        "materias": [
+                            "RENDERIZADO 3D (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/cYcfAKqabDxnz7zc8"
+                    },
+                    {
+                        "nombre": "Ulises Vázquez Padilla",
+                        "materias": [
+                            "ANÁLISIS DEL MOVIMIENTO CORPORAL"
+                        ],
+                        "encuesta": "https://forms.gle/LrMpUbTGPjB4r42w7"
+                    },
+                    {
+                        "nombre": "Portafolio SAE",
+                        "materias": [
+                            "PORTAFOLIO SAE"
+                        ],
+                        "encuesta": "https://forms.gle/VjninD9yTejCtqgMA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0722.2",
+                "profesores": [
+                    {
+                        "nombre": "Antonio Camarillo Vázquez",
+                        "materias": [
+                            "GUIONISMO"
+                        ],
+                        "encuesta": "https://forms.gle/MJ15Tz7UwJNFunYF6"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": [
+                            "DIBUJO ANATÓMICO"
+                        ],
+                        "encuesta": "https://forms.gle/JGypNUigNKnm2ma49"
+                    },
+                    {
+                        "nombre": "Claudio Alexis Ramírez Arreola",
+                        "materias": [
+                            "EFFECTOS VISUALES POR SISTEMA DE NODOS (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/8FH5AXfroHeumrLc6"
+                    },
+                    {
+                        "nombre": "Angel Valtierra Pillado",
+                        "materias": [
+                            "RENDERIZADO 3D (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/cYcfAKqabDxnz7zc8"
+                    },
+                    {
+                        "nombre": "Ulises Vázquez Padilla",
+                        "materias": [
+                            "ANÁLISIS DEL MOVIMIENTO CORPORAL"
+                        ],
+                        "encuesta": "https://forms.gle/LrMpUbTGPjB4r42w7"
+                    },
+                    {
+                        "nombre": "Portafolio SAE",
+                        "materias": [
+                            "PORTAFOLIO SAE"
+                        ],
+                        "encuesta": "https://forms.gle/VjninD9yTejCtqgMA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0722.4",
+                "profesores": [
+                    {
+                        "nombre": "Antonio Camarillo Vázquez",
+                        "materias": [
+                            "GUIONISMO"
+                        ],
+                        "encuesta": "https://forms.gle/MJ15Tz7UwJNFunYF6"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": [
+                            "DIBUJO ANATÓMICO"
+                        ],
+                        "encuesta": "https://forms.gle/JGypNUigNKnm2ma49"
+                    },
+                    {
+                        "nombre": "Claudio Alexis Ramírez Arreola",
+                        "materias": [
+                            "EFFECTOS VISUALES POR SISTEMA DE NODOS (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/8FH5AXfroHeumrLc6"
+                    },
+                    {
+                        "nombre": "Angel Valtierra Pillado",
+                        "materias": [
+                            "RENDERIZADO 3D (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/cYcfAKqabDxnz7zc8"
+                    },
+                    {
+                        "nombre": "Ulises Vázquez Padilla",
+                        "materias": [
+                            "ANÁLISIS DEL MOVIMIENTO CORPORAL"
+                        ],
+                        "encuesta": "https://forms.gle/LrMpUbTGPjB4r42w7"
+                    },
+                    {
+                        "nombre": "Portafolio SAE",
+                        "materias": [
+                            "PORTAFOLIO SAE"
+                        ],
+                        "encuesta": "https://forms.gle/VjninD9yTejCtqgMA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD1022.1",
+                "profesores": [
+                    {
+                        "nombre": "Antonio Camarillo Vázquez",
+                        "materias": [
+                            "LENGUAJE CINEMATOGRÁFICO"
+                        ],
+                        "encuesta": "https://forms.gle/MJ15Tz7UwJNFunYF6"
+                    },
+                    {
+                        "nombre": "Imuri Juárez Elenes",
+                        "materias": [
+                            "MODELADO DE ESCENARIOS Y OBJETOS (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/J9dvQBnzESKFNW4v8"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": [
+                            "FUNDAMENTOS DEL DESARROLLO VISUAL"
+                        ],
+                        "encuesta": "https://forms.gle/JGypNUigNKnm2ma49"
+                    },
+                    {
+                        "nombre": "Alfredo Salomón Salazar",
+                        "materias": [
+                            "EFECTOS VISUALES POR SISTEMA DE CAPAS"
+                        ],
+                        "encuesta": "https://forms.gle/736baVXbCskFAWq69"
+                    },
+                    {
+                        "nombre": "Paulina Alejandra Ugarte Chelén",
+                        "materias": [
+                            "NARRATIVA Y DESARROLLO DE PERSONAJES"
+                        ],
+                        "encuesta": "https://forms.gle/JvjTW3bNPBU1hVRM9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "carrera": "Licenciatura en Diseño de Videojuegos",
+        "grupos": [
+            {
+                "grupo": "GDD0122",
+                "profesores": [
+                    {
+                        "nombre": "Manuel Alejandro Almazán Enríquez",
+                        "materias": [
+                            "STORYBORD Y ANIMATIC"
+                        ],
+                        "encuesta": "https://forms.gle/sbFzbizPy41a3VqS9"
+                    },
+                    {
+                        "nombre": "José Bernardo Ledón Roig",
+                        "materias": [
+                            "DISEÑO DE EXPERIENCIAS"
+                        ],
+                        "encuesta": "https://forms.gle/caHiaYz27M1i8Z6n7"
+                    },
+                    {
+                        "nombre": "Efthalia Stamatiades Concha",
+                        "materias": [
+                            "MODELADO DE ESCENARIOS Y OBJETOS"
+                        ],
+                        "encuesta": "https://forms.gle/Nj7qKjSPECZsx6LK6"
+                    },
+                    {
+                        "nombre": "Marco Omar Torres Hernández",
+                        "materias": [
+                            "SCRIPTING Y CREACIÓN DE PROTOTIPOS"
+                        ],
+                        "encuesta": "https://forms.gle/e8XaZrdjFYaY3MvU9"
+                    }
+                ]
+            },
+            {
+                "grupo": "GDD0721.1",
+                "profesores": [
+                    {
+                        "nombre": "Manuel Alejandro Almazán Enríquez",
+                        "materias": [
+                            "ANIMACIÓN 3D"
+                        ],
+                        "encuesta": "https://forms.gle/sbFzbizPy41a3VqS9"
+                    },
+                    {
+                        "nombre": "José Bernardo Ledón Roig",
+                        "materias": [
+                            "EXPERIENCIAS DE USUARIO"
+                        ],
+                        "encuesta": "https://forms.gle/caHiaYz27M1i8Z6n7"
+                    },
+                    {
+                        "nombre": "Blanca Estela López Pérez",
+                        "materias": [
+                            "JUEGO Y SOCIEDAD"
+                        ],
+                        "encuesta": "https://forms.gle/dApnaSJqzL3SB4iSA"
+                    },
+                    {
+                        "nombre": "Marco Omar Torres Hernández",
+                        "materias": [
+                            "DISEÑO AVANZADO DE NIVELES"
+                        ],
+                        "encuesta": "https://forms.gle/e8XaZrdjFYaY3MvU9"
+                    }
+                ]
+            },
+            {
+                "grupo": "GDD0121",
+                "profesores": [
+                    {
+                        "nombre": "Manuel Alejandro Almazán Enríquez",
+                        "materias": [
+                            "DISEÑO Y PRE-PRODUCCIÓN DE PROYECTO"
+                        ],
+                        "encuesta": "https://forms.gle/sbFzbizPy41a3VqS9"
+                    },
+                    {
+                        "nombre": "Rubén Darío Hernández Mendo",
+                        "materias": [
+                            "SERIOUS GAMES"
+                        ],
+                        "encuesta": "https://forms.gle/kA86wibvrXWu53XJA"
+                    },
+                    {
+                        "nombre": "Blanca Estela López Pérez",
+                        "materias": [
+                            "PSICOLOGÍA DEL JUEGO"
+                        ],
+                        "encuesta": "https://forms.gle/dApnaSJqzL3SB4iSA"
+                    },
+                    {
+                        "nombre": "Yunuen Ekaren Romero Mandujano",
+                        "materias": [
+                            "MARCO LEGAL PARA LOS NUEVOS MEDIOS"
+                        ],
+                        "encuesta": "https://forms.gle/jzkT6XgDzgBAJv3YA"
+                    },
+                    {
+                        "nombre": "German Sosa Castañón",
+                        "materias": [
+                            "DISEÑO Y PRE-PRODUCCIÓN DE PROYECTO"
+                        ],
+                        "encuesta": "https://forms.gle/BAuLLw6PrKkWUCoj7"
+                    }
+                ]
+            },
+            {
+                "grupo": "GDD1020",
+                "profesores": [
+                    {
+                        "nombre": "Manuel Alejandro Almazán Enríquez",
+                        "materias": [
+                            "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS I"
+                        ],
+                        "encuesta": "https://forms.gle/sbFzbizPy41a3VqS9"
+                    },
+                    {
+                        "nombre": "Emmanuel Galicia Martínez",
+                        "materias": [
+                            "MERCADOTECNIA PARA LOS NUEVOS MEDIOS"
+                        ],
+                        "encuesta": "https://forms.gle/LPD7np4p1jRs8L3z9"
+                    },
+                    {
+                        "nombre": "Roque Alejandro Hernández Pérez",
+                        "materias": [
+                            "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS I"
+                        ],
+                        "encuesta": "https://forms.gle/51JXpUTPboWhYmC27"
+                    },
+                    {
+                        "nombre": "José Bernardo Ledón Roig",
+                        "materias": [
+                            "USABILIDAD Y TÉCNICAS DE INTERACCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/caHiaYz27M1i8Z6n7"
+                    }
+                ]
+            },
+            {
+                "grupo": "GDD0720",
+                "profesores": [
+                    {
+                        "nombre": "Manuel Alejandro Almazán Enríquez",
+                        "materias": [
+                            "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS II"
+                        ],
+                        "encuesta": "https://forms.gle/sbFzbizPy41a3VqS9"
+                    },
+                    {
+                        "nombre": "Iván André Chapela Fauchey",
+                        "materias": [
+                            "PANORAMA DE LA INDUSTRIA DEL VIDEOJUEGO"
+                        ],
+                        "encuesta": "https://forms.gle/nEcM4nwxaBWqrRRv9"
+                    },
+                    {
+                        "nombre": "Roque Alejandro Hernández Pérez",
+                        "materias": [
+                            "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS II"
+                        ],
+                        "encuesta": "https://forms.gle/51JXpUTPboWhYmC27"
+                    },
+                    {
+                        "nombre": "Enrique David Preza Hernández",
+                        "materias": [
+                            "GESTIÓN DE NEGOCIOS EN LOS NUEVOS MEDIOS"
+                        ],
+                        "encuesta": "https://forms.gle/DeA5XdbMPt8ZMC2p8"
+                    }
+                ]
+            },
+            {
+                "grupo": "GDD0123",
+                "profesores": [
+                    {
+                        "nombre": "Eusebio Bañuelos González",
+                        "materias": [
+                            "FUNDAMENTOS DEL DIBUJO"
+                        ],
+                        "encuesta": "https://forms.gle/KsEv2njDFAg59DYd8"
+                    },
+                    {
+                        "nombre": "Jimena Yisel Caballero Contreras",
+                        "materias": [
+                            "METODOLOGÍAS DE LA INVESTIGACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/e1yuKYRoshZTzP9KA"
+                    },
+                    {
+                        "nombre": "Emmanuel Galicia Martínez",
+                        "materias": [
+                            "DISEÑO DE LA COMUNICACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/LPD7np4p1jRs8L3z9"
+                    },
+                    {
+                        "nombre": "Paula Sabina Pérez",
+                        "materias": [
+                            "FUNDAMENTOS DEL DISEÑO"
+                        ],
+                        "encuesta": "https://forms.gle/A7AshWmzQmqieLzCA"
+                    },
+                    {
+                        "nombre": "German Sosa Castañón",
+                        "materias": [
+                            "TEORIAS DEL ENTRETENIMIENTO INTERACTIVO"
+                        ],
+                        "encuesta": "https://forms.gle/BAuLLw6PrKkWUCoj7"
+                    }
+                ]
+            },
+            {
+                "grupo": "GDD1022",
+                "profesores": [
+                    {
+                        "nombre": "Eusebio Bañuelos González",
+                        "materias": [
+                            "DIBUJO ANATÓMICO"
+                        ],
+                        "encuesta": "https://forms.gle/KsEv2njDFAg59DYd8"
+                    },
+                    {
+                        "nombre": "Ricardo Dorantes Montaño",
+                        "materias": [
+                            "NARRATIVA AUDIOVISUAL"
+                        ],
+                        "encuesta": "https://forms.gle/NkNH5ab5tN2SPPo19"
+                    },
+                    {
+                        "nombre": "Roque Alejandro Hernández Pérez",
+                        "materias": [
+                            "INTRODUCCIÓN A LA COMPUTACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/51JXpUTPboWhYmC27"
+                    },
+                    {
+                        "nombre": "José Bernardo Ledón Roig",
+                        "materias": [
+                            "ANÁLISIS HISTÓRICA DE LA IMAGEN"
+                        ],
+                        "encuesta": "https://forms.gle/caHiaYz27M1i8Z6n7"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": [
+                            "IMAGEN DIGITAL"
+                        ],
+                        "encuesta": "https://forms.gle/JGypNUigNKnm2ma49"
+                    }
+                ]
+            },
+            {
+                "grupo": "GDD1021",
+                "profesores": [
+                    {
+                        "nombre": "Eusebio Bañuelos González",
+                        "materias": [
+                            "HISTORIA DEL ARTE MODERNO"
+                        ],
+                        "encuesta": "https://forms.gle/KsEv2njDFAg59DYd8"
+                    },
+                    {
+                        "nombre": "Andreas Papacostas Quintanilla",
+                        "materias": [
+                            "PRINCIPIOS DE ANIMACIÓN 2D"
+                        ],
+                        "encuesta": "https://forms.gle/jY7YxFYS7VkMEXJUA"
+                    },
+                    {
+                        "nombre": "Efthalia Stamatiades Concha",
+                        "materias": [
+                            "MODELADO DE PERSONAJES 3D"
+                        ],
+                        "encuesta": "https://forms.gle/Nj7qKjSPECZsx6LK6"
+                    },
+                    {
+                        "nombre": "Marco Omar Torres Hernández",
+                        "materias": [
+                            "DISEÑO DE NIVELES"
+                        ],
+                        "encuesta": "https://forms.gle/e8XaZrdjFYaY3MvU9"
+                    }
+                ]
+            },
+            {
+                "grupo": "GDD0722.1",
+                "profesores": [
+                    {
+                        "nombre": "Aitor Lander De Icaza Astiz",
+                        "materias": [
+                            "FUNDAMENTOS MATEMÁTICOS"
+                        ],
+                        "encuesta": "https://forms.gle/rtZifXWs96NmLqaE9"
+                    },
+                    {
+                        "nombre": "Roque Alejandro Hernández Pérez",
+                        "materias": [
+                            "ARTE PARA VIDEOJUEGOS"
+                        ],
+                        "encuesta": "https://forms.gle/51JXpUTPboWhYmC27"
+                    },
+                    {
+                        "nombre": "Ernesto Ríos Solís",
+                        "materias": [
+                            "DISEÑO DEL ENTRETENIMIENTO INTERACTIVO"
+                        ],
+                        "encuesta": "https://forms.gle/EEm2MjdJ9ymiQJgP9"
+                    },
+                    {
+                        "nombre": "Paulina Alejandra Ugarte Chelén",
+                        "materias": [
+                            "NARRATIVA Y DESARROLLO DE PERSONAJES"
+                        ],
+                        "encuesta": "https://forms.gle/JvjTW3bNPBU1hVRM9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "carrera": "Licenciatura en Negocios de la Música",
+        "grupos": [
+            {
+                "grupo": "MBDD0722",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL INTERMEDIA"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Guillermo Padrón Campuzano",
+                        "materias": [
+                            "EMPRENDIMIENTO SOCIAL Y POLÍTICA CULTURAL"
+                        ],
+                        "encuesta": "https://forms.gle/Rkb5x5pfFL16ufecA"
+                    },
+                    {
+                        "nombre": "Enrique Espejel Gómez",
+                        "materias": [
+                            "CONTABILIDAD Y FINANZAS"
+                        ],
+                        "encuesta": "https://forms.gle/TgLK4DgqajYn2gTx5"
+                    },
+                    {
+                        "nombre": "Jesús Somoza González",
+                        "materias": [
+                            "MERCADOTECNIA APLICADA"
+                        ],
+                        "encuesta": "https://forms.gle/dnAMfNA4LD6UVe4Y6"
+                    },
+                    {
+                        "nombre": "Karen Rangel García",
+                        "materias": [
+                            "DESARROLLO DE NUEVOS NEGOCIOS"
+                        ],
+                        "encuesta": "https://forms.gle/mECvg27Gi9opVGfJ7"
+                    },
+                    {
+                        "nombre": "Portafolio SAE",
+                        "materias": [
+                            "PORTAFOLIO SAE"
+                        ],
+                        "encuesta": "https://forms.gle/VjninD9yTejCtqgMA"
+                    }
+                ]
+            },
+            {
+                "grupo": "MBDD1021",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL II"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Luis Arturo Ruíz Velázquez",
+                        "materias": [
+                            "ESTADÍSTICA Y ANALÍTICA APLICADA AL MERCADO MUSICAL"
+                        ],
+                        "encuesta": "https://forms.gle/9J5qFYv2GbR3VCJG6"
+                    },
+                    {
+                        "nombre": "Enrique Espejel Gómez",
+                        "materias": [
+                            "ECONOMÍA Y FINANZAS"
+                        ],
+                        "encuesta": "https://forms.gle/TgLK4DgqajYn2gTx5"
+                    },
+                    {
+                        "nombre": "Carlos Arturo León Peña",
+                        "materias": [
+                            "PLANEACIÓN DE NEGOCIOS"
+                        ],
+                        "encuesta": "https://forms.gle/auyVebNxxtDtgBBB9"
+                    }
+                ]
+            },
+            {
+                "grupo": "MBDD1020",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "APRECIACIÓN MUSICAL"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "SISTEMAS DE REFUERZO SONORO E ILUMINACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/BQ7WVQjF9tmXctXj6"
+                    },
+                    {
+                        "nombre": "Gabriel Mendoza Cabrera",
+                        "materias": [
+                            "ROLES Y PROTOCOLOS EN EVENTOS"
+                        ],
+                        "encuesta": "https://forms.gle/djtvAHJRwW2VSKgs7"
+                    },
+                    {
+                        "nombre": "Gonzalo Rosado Murguía",
+                        "materias": [
+                            "PRODUCCIÓN EJECUTIVA DE EVENTOS"
+                        ],
+                        "encuesta": "https://forms.gle/6sCGfWtgvdtpwWveA"
+                    }
+                ]
+            },
+            {
+                "grupo": "MBDD0721",
+                "profesores": [
+                    {
+                        "nombre": "Erandi Shanik Santos Lugo",
+                        "materias": [
+                            "SEMIÓTICA DE LA CIENCIA Y LA CULTURA"
+                        ],
+                        "encuesta": "https://forms.gle/3APLnfnv9HzFoZof8"
+                    },
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "ADMINISTRACIÓN DE PROYECTOS"
+                        ],
+                        "encuesta": "https://forms.gle/BQ7WVQjF9tmXctXj6"
+                    },
+                    {
+                        "nombre": "Mishel Ceballos Ortiz",
+                        "materias": [
+                            "TALLER DE CREATIVIDAD"
+                        ],
+                        "encuesta": "https://forms.gle/C4y9BbARMvUreZ7S8"
+                    },
+                    {
+                        "nombre": "Rocío Rodríguez de la Cruz",
+                        "materias": [
+                            "INVESTIGACIÓN APLICADA A LA INDUSTRIA DE LOS MEDIOS CREATIVOS"
+                        ],
+                        "encuesta": "https://forms.gle/WB3sZ3LpGKQjXV6F6"
+                    },
+                    {
+                        "nombre": "Jesús Somoza González",
+                        "materias": [
+                            "PLANEACIÓN ESTRATÉGICA Y DESARROLLO DE CONCEPTO"
+                        ],
+                        "encuesta": "https://forms.gle/dnAMfNA4LD6UVe4Y6"
+                    }
+                ]
+            },
+            {
+                "grupo": "MBDD0121",
+                "profesores": [
+                    {
+                        "nombre": "Erandi Shanik Santos Lugo",
+                        "materias": [
+                            "ANÁLISIS CRÍTICO"
+                        ],
+                        "encuesta": "https://forms.gle/3APLnfnv9HzFoZof8"
+                    },
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "PRODUCTORES, COMPOSITORES, MÚSICOS Y ARREGLISTAS"
+                        ],
+                        "encuesta": "https://forms.gle/BQ7WVQjF9tmXctXj6"
+                    },
+                    {
+                        "nombre": "Gabriel Mendoza Cabrera",
+                        "materias": [
+                            "INGENIERÍA EN AUDIO"
+                        ],
+                        "encuesta": "https://forms.gle/djtvAHJRwW2VSKgs7"
+                    },
+                    {
+                        "nombre": "Fernando Rafael Roldán de Luzuriaga",
+                        "materias": [
+                            "ESTUDIOS DE GRABACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/z8KVtMPZE9zJFepE7"
+                    },
+                    {
+                        "nombre": "Juan Muro Barrios",
+                        "materias": [
+                            "TÉCNICAS DE PRODUCCIÓN MUSICAL"
+                        ],
+                        "encuesta": "https://forms.gle/nGkUCBs1BFaib5mo9"
+                    }
+                ]
+            },
+            {
+                "grupo": "MBDD0420",
+                "profesores": [
+                    {
+                        "nombre": "Juan Pablo Mauricio Álvarez",
+                        "materias": [
+                            "DESARROLLO DE PROYECTO FINAL II"
+                        ],
+                        "encuesta": "https://forms.gle/n5vQNnLo3nmzEbE67"
+                    },
+                    {
+                        "nombre": "José Clemente Piña Cabello",
+                        "materias": [
+                            "ASPECTOS LEGALES DE LA INDUSTRIA MUSICAL"
+                        ],
+                        "encuesta": "https://forms.gle/SuF2m1Mdk1P983NS9"
+                    },
+                    {
+                        "nombre": "Diego Humberto Cruz Linares",
+                        "materias": [
+                            "LEGISLACIÓN EMPRESARIAL"
+                        ],
+                        "encuesta": "https://forms.gle/93jfXownsC1aU3jN6"
+                    }
+                ]
+            },
+            {
+                "grupo": "MBDD01022",
+                "profesores": [
+                    {
+                        "nombre": "Yunuen Ekaren Romero Mandujano",
+                        "materias": [
+                            "DERECHOS DE AUTOR"
+                        ],
+                        "encuesta": "https://forms.gle/h87DBHZTAwoiG8Az5"
+                    },
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "REGALÍAS Y MONETIZACIÓN",
+                            "DISTRIBUCIÓN DIGITAL"
+                        ],
+                        "encuesta": "https://forms.gle/BQ7WVQjF9tmXctXj6"
+                    },
+                    {
+                        "nombre": "Alberto Albarrán García",
+                        "materias": [
+                            "SELLOS DISCOGRÁFICOS"
+                        ],
+                        "encuesta": "https://forms.gle/MeacLSyEg31zKP4Q9"
+                    },
+                    {
+                        "nombre": "Diego Humberto Cruz Linares",
+                        "materias": [
+                            "EDITORAS MUSICALES Y SOCIEDADES DE GESTIÓN COLECTIVA"
+                        ],
+                        "encuesta": "https://forms.gle/93jfXownsC1aU3jN6"
+                    }
+                ]
+            },
+            {
+                "grupo": "MBDD0122",
+                "profesores": [
+                    {
+                        "nombre": "Guillermo Padrón Campuzano",
+                        "materias": [
+                            "EMPRENDEDORES"
+                        ],
+                        "encuesta": "https://forms.gle/Rkb5x5pfFL16ufecA"
+                    },
+                    {
+                        "nombre": "Enrique Espejel Gómez",
+                        "materias": [
+                            "ADMINISTRACIÓN DE NEGOCIOS"
+                        ],
+                        "encuesta": "https://forms.gle/TgLK4DgqajYn2gTx5"
+                    },
+                    {
+                        "nombre": "María Fernanda González Basurto",
+                        "materias": [
+                            "PRINCIPIOS DE FOTOGRAFÍA DIGITAL"
+                        ],
+                        "encuesta": "https://forms.gle/U6mYKZn7LvveRSJV6"
+                    },
+                    {
+                        "nombre": "Esteban Federico Ruesga Rodríguez",
+                        "materias": [
+                            "ANÁLISIS Y ESTRATEGIAS PARA EL MERCADO DIGITAL"
+                        ],
+                        "encuesta": "https://forms.gle/yomyAY779MqvbYNL9"
+                    },
+                    {
+                        "nombre": "Patricio Aguilar Márquez",
+                        "materias": [
+                            "PRODUCCIÓN AUDIOVISUAL"
+                        ],
+                        "encuesta": "https://forms.gle/hoJoRxxAwcUANbPB8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "carrera": "Licenciatura en Programación de Videojuegos",
+        "grupos": [
+            {
+                "grupo": "GPD0121",
+                "profesores": [
+                    {
+                        "nombre": "Rafael Arias González",
+                        "materias": [
+                            "INTELIGENCIA ARTIFICIAL AVANZADA"
+                        ],
+                        "encuesta": "https://forms.gle/pA2hzL7Wy82JyG9p6"
+                    },
+                    {
+                        "nombre": "Jimena Yisel Caballero Contreras",
+                        "materias": [
+                            "INTRODUCCIÓN A LA MERCADOTECNIA"
+                        ],
+                        "encuesta": "https://forms.gle/e1yuKYRoshZTzP9KA"
+                    },
+                    {
+                        "nombre": "Marco Antonio García Rodríguez",
+                        "materias": [
+                            "DISEÑO Y PRE-PRODUCCIÓN DE PROYECTO"
+                        ],
+                        "encuesta": "https://forms.gle/Bx5KQZkJJhQs68z86"
+                    },
+                    {
+                        "nombre": "German Sosa Castañón",
+                        "materias": [
+                            "DISEÑO Y PRE-PRODUCCIÓN DE PROYECTO"
+                        ],
+                        "encuesta": "https://forms.gle/BAuLLw6PrKkWUCoj7"
+                    },
+                    {
+                        "nombre": "Marcos Samuel Valle León",
+                        "materias": [
+                            "DESARROLLO DE APLICACIONES"
+                        ],
+                        "encuesta": "https://forms.gle/AtptDYm9vasT8mJt6"
+                    }
+                ]
+            },
+            {
+                "grupo": "GPD0122",
+                "profesores": [
+                    {
+                        "nombre": "Pedro Cervantes Pintor",
+                        "materias": [
+                            "PROGRAMACIÓN ORIENTADA A OBJETOS II"
+                        ],
+                        "encuesta": "https://forms.gle/DVqvjZP9M5d3vQdY8"
+                    },
+                    {
+                        "nombre": "Felipe Mandujano Goméz",
+                        "materias": [
+                            "ARQUITECTURA DE SOFTWARE (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/tkjb5yGLU7tNAiov5"
+                    },
+                    {
+                        "nombre": "Yunuen Ekaren Romero Mandujano",
+                        "materias": [
+                            "MARCO LEGAL PARA LOS NUEVOS MEDIOS"
+                        ],
+                        "encuesta": "https://forms.gle/jzkT6XgDzgBAJv3YA"
+                    },
+                    {
+                        "nombre": "Efthalia Stamatiades Concha",
+                        "materias": [
+                            "HERRAMIENTAS Y TECNICAS MODELADO"
+                        ],
+                        "encuesta": "https://forms.gle/Nj7qKjSPECZsx6LK6"
+                    }
+                ]
+            },
+            {
+                "grupo": "GPD0720.1",
+                "profesores": [
+                    {
+                        "nombre": "Iván André Chapela Fauchey",
+                        "materias": [
+                            "PANORAMA DE LA INDUSTRIA DEL VIDEOJUEGO"
+                        ],
+                        "encuesta": "https://forms.gle/nEcM4nwxaBWqrRRv9"
+                    },
+                    {
+                        "nombre": "Rubén Darío Hernández Mendo",
+                        "materias": [
+                            "SERIOUS GAMES"
+                        ],
+                        "encuesta": "https://forms.gle/kA86wibvrXWu53XJA"
+                    },
+                    {
+                        "nombre": "Yunuén Vladimir Lenin Sánchez Garrido",
+                        "materias": [
+                            "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS II"
+                        ],
+                        "encuesta": "https://forms.gle/oiGjVFwBzv73qrMb9"
+                    }
+                ]
+            },
+            {
+                "grupo": "GPD0123",
+                "profesores": [
+                    {
+                        "nombre": "Aitor Lander De Icaza Astiz",
+                        "materias": [
+                            "FUNDAMENTOS MATEMÁTICOS"
+                        ],
+                        "encuesta": "https://forms.gle/rtZifXWs96NmLqaE9"
+                    },
+                    {
+                        "nombre": "Anni Garza Lau",
+                        "materias": [
+                            "INTRODUCCIÓN A LA PROGRAMACIÓN ORIENTADA A OBJETOS (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/ExSpoRKCijD1TmoX6"
+                    },
+                    {
+                        "nombre": "Adidier Monserrat Pérez Gómez",
+                        "materias": [
+                            "ARQUITECTURA Y LÓGICA COMPUTACIONAL"
+                        ],
+                        "encuesta": "https://forms.gle/BDtXkR3TRApuJcu87"
+                    },
+                    {
+                        "nombre": "German Sosa Castañón",
+                        "materias": [
+                            "TEORÍAS DEL ENTRETENIMIENTO INTERACTIVO"
+                        ],
+                        "encuesta": "https://forms.gle/BAuLLw6PrKkWUCoj7"
+                    }
+                ]
+            },
+            {
+                "grupo": "GPD0722.1",
+                "profesores": [
+                    {
+                        "nombre": "Aitor Lander De Icaza Astiz",
+                        "materias": [
+                            "ÁLGEBRA LINEAL"
+                        ],
+                        "encuesta": "https://forms.gle/rtZifXWs96NmLqaE9"
+                    },
+                    {
+                        "nombre": "Felipe Mandujano Goméz",
+                        "materias": [
+                            "INTRODUCCIÓN A LAS ESTRUCTURAS DE DATOS"
+                        ],
+                        "encuesta": "https://forms.gle/tkjb5yGLU7tNAiov5"
+                    },
+                    {
+                        "nombre": " Luis Romero Ramos",
+                        "materias": [
+                            "SISTEMAS DE SCRIPTING"
+                        ],
+                        "encuesta": "https://forms.gle/7pn5djHN1EVxeqqG8"
+                    },
+                    {
+                        "nombre": "Yunuén Vladimir Lenin Sánchez Garrido",
+                        "materias": [
+                            "ARQUITECTURA DE SOFTWARE (HU)"
+                        ],
+                        "encuesta": "https://forms.gle/oiGjVFwBzv73qrMb9"
+                    },
+                    {
+                        "nombre": "Marcos Samuel Valle León",
+                        "materias": [
+                            "HERRAMIENTAS Y TECNICAS MODELADO"
+                        ],
+                        "encuesta": "https://forms.gle/AtptDYm9vasT8mJt6"
+                    },
+                    {
+                        "nombre": "Portafolio SAE",
+                        "materias": [
+                            "PORTAFOLIO SAE"
+                        ],
+                        "encuesta": "https://forms.gle/VjninD9yTejCtqgMA"
+                    }
+                ]
+            },
+            {
+                "grupo": "GPD0721.1",
+                "profesores": [
+                    {
+                        "nombre": "Roque Alejandro Hernández Pérez",
+                        "materias": [
+                            "DISEÑO Y DESARROLLO DE APLICACIONES DE REALIDAD VIRTUAL Y REALIDAD AUMENTADA"
+                        ],
+                        "encuesta": "https://forms.gle/51JXpUTPboWhYmC27"
+                    },
+                    {
+                        "nombre": "Felipe Mandujano Goméz",
+                        "materias": [
+                            "DISEÑO DE SISTEMA DE JUEGO"
+                        ],
+                        "encuesta": "https://forms.gle/tkjb5yGLU7tNAiov5"
+                    },
+                    {
+                        "nombre": "Adidier Monserrat Pérez Gómez",
+                        "materias": [
+                            "SISTEMAS DE SCRIPTING"
+                        ],
+                        "encuesta": "https://forms.gle/BDtXkR3TRApuJcu87"
+                    },
+                    {
+                        "nombre": "Yunuén Vladimir Lenin Sánchez Garrido",
+                        "materias": [
+                            "INTELIGENCIA ARTIFICIAL"
+                        ],
+                        "encuesta": "https://forms.gle/oiGjVFwBzv73qrMb9"
+                    },
+                    {
+                        "nombre": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "GPD1020",
+                "profesores": [
+                    {
+                        "nombre": "José Bernardo Ledón Roig",
+                        "materias": [
+                            "USABILIDAD Y TÉCNICAS DE INTERACCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/caHiaYz27M1i8Z6n7"
+                    },
+                    {
+                        "nombre": "Blanca Estela López Pérez",
+                        "materias": [
+                            "JUEGO Y SOCIEDAD"
+                        ],
+                        "encuesta": "https://forms.gle/dApnaSJqzL3SB4iSA"
+                    },
+                    {
+                        "nombre": "Yunuén Vladimir Lenin Sánchez Garrido",
+                        "materias": [
+                            "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS I"
+                        ],
+                        "encuesta": "https://forms.gle/oiGjVFwBzv73qrMb9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "carrera": "Licenciatura en Ingeniería en Audio",
+        "grupos": [
+            {
+                "grupo": "AED1022.1",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL BÁSICA"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Israel Garrido Aguilar",
+                        "materias": [
+                            "PROCESADORES Y EFECTOS"
+                        ],
+                        "encuesta": "https://forms.gle/jcVzYRoY7Lu5JDmLA"
+                    },
+                    {
+                        "nombre": "Juan Carlos García Orihuela",
+                        "materias": [
+                            "ESTUDIOS VIRTUALES"
+                        ],
+                        "encuesta": "https://forms.gle/8JmAsrNe2rsQRw5MA"
+                    },
+                    {
+                        "nombre": "Emanuel Carrillo Casañas",
+                        "materias": [
+                            "HISTORIA DE LA GRABACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/9mLBL4DZ7xqFtHoDA"
+                    },
+                    {
+                        "nombre": "Fabían Ávila Elizalde",
+                        "materias": [
+                            "FUNDAMENTOS DEL DISEÑO SONORO"
+                        ],
+                        "encuesta": "https://forms.gle/EdREGbDACPzBTdwP9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED1022.2",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL BÁSICA"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Rafael Becerra",
+                        "materias": [
+                            "PROCESADORES Y EFECTOS"
+                        ],
+                        "encuesta": "https://forms.gle/XAtDHxjLeGvFbR1C8"
+                    },
+                    {
+                        "nombre": "Juan Carlos García Orihuela",
+                        "materias": [
+                            "ESTUDIOS VIRTUALES"
+                        ],
+                        "encuesta": "https://forms.gle/8JmAsrNe2rsQRw5MA"
+                    },
+                    {
+                        "nombre": "Emanuel Carrillo Casañas",
+                        "materias": [
+                            "HISTORIA DE LA GRABACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/9mLBL4DZ7xqFtHoDA"
+                    },
+                    {
+                        "nombre": "Fabían Ávila Elizalde",
+                        "materias": [
+                            "FUNDAMENTOS DEL DISEÑO SONORO"
+                        ],
+                        "encuesta": "https://forms.gle/EdREGbDACPzBTdwP9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED722.1",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL INTERMEDIA"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Fernando Rafael Roldán de Luzuriaga",
+                        "materias": [
+                            "TÉCNICAS DE GRABACIÓN Y MICROFONÍA"
+                        ],
+                        "encuesta": "https://forms.gle/z8KVtMPZE9zJFepE7"
+                    },
+                    {
+                        "nombre": "Leonel Martínez Hurtado",
+                        "materias": [
+                            "ESTUDIOS DE GRABACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/CvhQAMboqK9Wuucn7"
+                    },
+                    {
+                        "nombre": "Guillermo Padrón Campuzano",
+                        "materias": [
+                            "PLANIFICACIÓN DE PROYECTOS"
+                        ],
+                        "encuesta": "https://forms.gle/Rkb5x5pfFL16ufecA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED722.2",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL INTERMEDIA"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Fernando Rafael Roldán de Luzuriaga",
+                        "materias": [
+                            "TÉCNICAS DE GRABACIÓN Y MICROFONÍA"
+                        ],
+                        "encuesta": "https://forms.gle/z8KVtMPZE9zJFepE7"
+                    },
+                    {
+                        "nombre": "Leonel Martínez Hurtado",
+                        "materias": [
+                            "ESTUDIOS DE GRABACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/CvhQAMboqK9Wuucn7"
+                    },
+                    {
+                        "nombre": "Guillermo Padrón Campuzano",
+                        "materias": [
+                            "PLANIFICACIÓN DE PROYECTOS"
+                        ],
+                        "encuesta": "https://forms.gle/Rkb5x5pfFL16ufecA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0422",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL I"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Erick Espartacus Oliveros Martínez",
+                        "materias": [
+                            "TÉCNICAS DE PRODUCCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/dR4Cs3YgeDjAWcoK9"
+                    },
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": [
+                            "CIRCUITOS ELÉCTRICOS"
+                        ],
+                        "encuesta": "https://forms.gle/77zFC96dtVBWfrTz5"
+                    },
+                    {
+                        "nombre": "Fernando Rafael Roldán de Luzuriaga",
+                        "materias": [
+                            "CONSOLAS"
+                        ],
+                        "encuesta": "https://forms.gle/z8KVtMPZE9zJFepE7"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0122.1",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL II"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": [
+                            "ELECTRÓNICA"
+                        ],
+                        "encuesta": "https://forms.gle/77zFC96dtVBWfrTz5"
+                    },
+                    {
+                        "nombre": "Blanca Alitzel Díaz Rueda Flores",
+                        "materias": [
+                            "SINCRONIZACIÓN Y AUTOMATIZACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/bjmZMSmqQfkVfwGh9"
+                    },
+                    {
+                        "nombre": "Carlos Honc Navarro",
+                        "materias": [
+                            "AUDIO PARA CINE"
+                        ],
+                        "encuesta": "https://forms.gle/Xz4nPGRYqhrtjzBKA"
+                    },
+                    {
+                        "nombre": "Jonatan Alí Mejía Cortés",
+                        "materias": [
+                            "INTRODUCCIÓN AL SONIDO INTERACTIVO"
+                        ],
+                        "encuesta": "https://forms.gle/i4LCZaDRZKQ4jdDF6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0122.2",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL II"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": [
+                            "ELECTRÓNICA"
+                        ],
+                        "encuesta": "https://forms.gle/77zFC96dtVBWfrTz5"
+                    },
+                    {
+                        "nombre": "Blanca Alitzel Díaz Rueda Flores",
+                        "materias": [
+                            "SINCRONIZACIÓN Y AUTOMATIZACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/bjmZMSmqQfkVfwGh9"
+                    },
+                    {
+                        "nombre": "Carlos Honc Navarro",
+                        "materias": [
+                            "AUDIO PARA CINE"
+                        ],
+                        "encuesta": "https://forms.gle/Xz4nPGRYqhrtjzBKA"
+                    },
+                    {
+                        "nombre": "Jonatan Alí Mejía Cortés",
+                        "materias": [
+                            "INTRODUCCIÓN AL SONIDO INTERACTIVO"
+                        ],
+                        "encuesta": "https://forms.gle/i4LCZaDRZKQ4jdDF6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0721.1",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL III"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "TÉCNICAS AVANZADAS DE PRODUCCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/BQ7WVQjF9tmXctXj6"
+                    },
+                    {
+                        "nombre": "Fernando Rafael Roldán de Luzuriaga",
+                        "materias": [
+                            "TÉCNICAS DE MEZCLA II"
+                        ],
+                        "encuesta": "https://forms.gle/z8KVtMPZE9zJFepE7"
+                    },
+                    {
+                        "nombre": "Pablo García Valenzuela",
+                        "materias": [
+                            "ACÚSTICA"
+                        ],
+                        "encuesta": "https://forms.gle/vZ9JHbhUsoZpbo3E6"
+                    },
+                    {
+                        "nombre": "Juan Muro Barrios",
+                        "materias": [
+                            "MASTERIZACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/nGkUCBs1BFaib5mo9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0721.2",
+                "profesores": [
+                    {
+                        "nombre": "Christian Alain Balderas Aceves",
+                        "materias": [
+                            "TEORÍA MUSICAL III"
+                        ],
+                        "encuesta": "https://forms.gle/tBTMcauMjEADSPfV6"
+                    },
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "TÉCNICAS AVANZADAS DE PRODUCCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/BQ7WVQjF9tmXctXj6"
+                    },
+                    {
+                        "nombre": "Fernando Rafael Roldán de Luzuriaga",
+                        "materias": [
+                            "TÉCNICAS DE MEZCLA II"
+                        ],
+                        "encuesta": "https://forms.gle/z8KVtMPZE9zJFepE7"
+                    },
+                    {
+                        "nombre": "Pablo García Valenzuela",
+                        "materias": [
+                            "ACÚSTICA"
+                        ],
+                        "encuesta": "https://forms.gle/vZ9JHbhUsoZpbo3E6"
+                    },
+                    {
+                        "nombre": "Juan Muro Barrios",
+                        "materias": [
+                            "MASTERIZACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/nGkUCBs1BFaib5mo9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0121.1",
+                "profesores": [
+                    {
+                        "nombre": "Erandi Shanik Santos Lugo",
+                        "materias": [
+                            "SEMIÓTICA DE LA CIENCIA Y LA CULTURA"
+                        ],
+                        "encuesta": "https://forms.gle/3APLnfnv9HzFoZof8"
+                    },
+                    {
+                        "nombre": "Mishel Ceballos Ortiz",
+                        "materias": [
+                            "TALLER DE CREATIVIDAD"
+                        ],
+                        "encuesta": "https://forms.gle/C4y9BbARMvUreZ7S8"
+                    },
+                    {
+                        "nombre": "Ulises Hadjis Labarca",
+                        "materias": [
+                            "INVESTIG APLICADA A LA INDUS DE LOS MEDIOS CREATIV"
+                        ],
+                        "encuesta": "https://forms.gle/LB96XRUKHamUYQKH8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0121.2",
+                "profesores": [
+                    {
+                        "nombre": "Erandi Shanik Santos Lugo",
+                        "materias": [
+                            "SEMIÓTICA DE LA CIENCIA Y LA CULTURA"
+                        ],
+                        "encuesta": "https://forms.gle/3APLnfnv9HzFoZof8"
+                    },
+                    {
+                        "nombre": "Mishel Ceballos Ortiz",
+                        "materias": [
+                            "TALLER DE CREATIVIDAD"
+                        ],
+                        "encuesta": "https://forms.gle/C4y9BbARMvUreZ7S8"
+                    },
+                    {
+                        "nombre": "Ulises Hadjis Labarca",
+                        "materias": [
+                            "INVESTIG APLICADA A LA INDUS DE LOS MEDIOS CREATIV"
+                        ],
+                        "encuesta": "https://forms.gle/LB96XRUKHamUYQKH8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0420",
+                "profesores": [
+                    {
+                        "nombre": "Erandi Shanik Santos Lugo",
+                        "materias": [
+                            "SEMINARIO DE TITULACIÓN II"
+                        ],
+                        "encuesta": "https://forms.gle/3APLnfnv9HzFoZof8"
+                    },
+                    {
+                        "nombre": "Juan Pablo Mauricio Álvarez",
+                        "materias": [
+                            "SEMINARIO DE TITULACIÓN II"
+                        ],
+                        "encuesta": "https://forms.gle/n5vQNnLo3nmzEbE67"
+                    },
+                    {
+                        "nombre": "Juan Muro Barrios",
+                        "materias": [
+                            "PRODUCTORES Y ARTISTAS"
+                        ],
+                        "encuesta": "https://forms.gle/nGkUCBs1BFaib5mo9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0720.2",
+                "profesores": [
+                    {
+                        "nombre": "Octavio Bernal López",
+                        "materias": [
+                            "INDUSTRIA INTERACTIVA",
+                            "APLICACIONES ESPECIALIZADAS II"
+                        ],
+                        "encuesta": "https://forms.gle/beQp5vXkf51poQ1X7"
+                    },
+                    {
+                        "nombre": "Ulises Hadjis Labarca",
+                        "materias": [
+                            "SEMINARIO DE TITULACIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/LB96XRUKHamUYQKH8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0421",
+                "profesores": [
+                    {
+                        "nombre": "Yunuen Ekaren Romero Mandujano",
+                        "materias": [
+                            "PROPIEDAD INTELECTUAL Y DERECHOS DE AUTOR"
+                        ],
+                        "encuesta": "https://forms.gle/h87DBHZTAwoiG8Az5"
+                    },
+                    {
+                        "nombre": "Juan Muro Barrios",
+                        "materias": [
+                            "DESARROLLO DE NUEVOS NEGOCIOS"
+                        ],
+                        "encuesta": "https://forms.gle/nGkUCBs1BFaib5mo9"
+                    },
+                    {
+                        "nombre": "Guillermo Padrón Campuzano",
+                        "materias": [
+                            "EMPRENDEDORES"
+                        ],
+                        "encuesta": "https://forms.gle/Rkb5x5pfFL16ufecA"
+                    },
+                    {
+                        "nombre": "Ivonne Elizabeth Ariadna Castañeda Tovar",
+                        "materias": [
+                            "INTRODUCCIÓN A LA MERCADOTECNIA",
+                            "DESARROLLO Y MANEJO DE MARCAS"
+                        ],
+                        "encuesta": "https://forms.gle/Z1UVsK1sLALTnjJMA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED1020.1",
+                "profesores": [
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "DIRECTORES COMPOSITORES Y ARREGLISTAS"
+                        ],
+                        "encuesta": "https://forms.gle/BQ7WVQjF9tmXctXj6"
+                    },
+                    {
+                        "nombre": "Carlos Honc Navarro",
+                        "materias": [
+                            "APLICACIONES ESPECIALIZADAS I",
+                            "DISEÑO SONORO"
+                        ],
+                        "encuesta": "https://forms.gle/Xz4nPGRYqhrtjzBKA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED1020.2",
+                "profesores": [
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "DIRECTORES COMPOSITORES Y ARREGLISTAS"
+                        ],
+                        "encuesta": "https://forms.gle/BQ7WVQjF9tmXctXj6"
+                    },
+                    {
+                        "nombre": "Carlos Honc Navarro",
+                        "materias": [
+                            "APLICACIONES ESPECIALIZADAS I",
+                            "DISEÑO SONORO"
+                        ],
+                        "encuesta": "https://forms.gle/Xz4nPGRYqhrtjzBKA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0123.1",
+                "profesores": [
+                    {
+                        "nombre": "Gabriel Mendoza Cabrera",
+                        "materias": [
+                            "TECNOLOGÍA DEL AUDIO"
+                        ],
+                        "encuesta": "https://forms.gle/djtvAHJRwW2VSKgs7"
+                    },
+                    {
+                        "nombre": "Niuni Butrón Álvarez",
+                        "materias": [
+                            "MATEMÁTICAS APLICADAS AL AUDIO"
+                        ],
+                        "encuesta": "https://forms.gle/MW6UsJ8Bjs2KSfpy9"
+                    },
+                    {
+                        "nombre": "Pablo García Valenzuela",
+                        "materias": [
+                            "TEORÍA DEL SONIDO"
+                        ],
+                        "encuesta": "https://forms.gle/vZ9JHbhUsoZpbo3E6"
+                    },
+                    {
+                        "nombre": "Leonel Martínez Hurtado",
+                        "materias": [
+                            "CONEXIONES DE ESTUDIO"
+                        ],
+                        "encuesta": "https://forms.gle/CvhQAMboqK9Wuucn7"
+                    },
+                    {
+                        "nombre": "Raúl de Jesús Bustos Castañeda",
+                        "materias": [
+                            "INTRO. A LAS EST. DE TRABAJO DE AUDIO DIGITAL"
+                        ],
+                        "encuesta": "https://forms.gle/SJCWE8oyn3BudwbJA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0123.2",
+                "profesores": [
+                    {
+                        "nombre": "Gabriel Mendoza Cabrera",
+                        "materias": [
+                            "TECNOLOGÍA DEL AUDIO"
+                        ],
+                        "encuesta": "https://forms.gle/djtvAHJRwW2VSKgs7"
+                    },
+                    {
+                        "nombre": "Niuni Butrón Álvarez",
+                        "materias": [
+                            "MATEMÁTICAS APLICADAS AL AUDIO"
+                        ],
+                        "encuesta": "https://forms.gle/MW6UsJ8Bjs2KSfpy9"
+                    },
+                    {
+                        "nombre": "Fabían Ávila Elizalde",
+                        "materias": [
+                            "TEORÍA DEL SONIDO"
+                        ],
+                        "encuesta": "https://forms.gle/EdREGbDACPzBTdwP9"
+                    },
+                    {
+                        "nombre": "Leonel Martínez Hurtado",
+                        "materias": [
+                            "CONEXIONES DE ESTUDIO"
+                        ],
+                        "encuesta": "https://forms.gle/CvhQAMboqK9Wuucn7"
+                    },
+                    {
+                        "nombre": "Raúl de Jesús Bustos Castañeda",
+                        "materias": [
+                            "INTRO.A LAS EST. DE TRABAJO DE AUDIO DIGITAL"
+                        ],
+                        "encuesta": "https://forms.gle/SJCWE8oyn3BudwbJA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED1021.1",
+                "profesores": [
+                    {
+                        "nombre": "Gabriel Mendoza Cabrera",
+                        "materias": [
+                            "PRODUCCIÓN EJECUTIVA DE EVENTOS"
+                        ],
+                        "encuesta": "https://forms.gle/djtvAHJRwW2VSKgs7"
+                    },
+                    {
+                        "nombre": "José Luis Rodriguez Castaño",
+                        "materias": [
+                            "TÉCNICAS DE MEZCLA I"
+                        ],
+                        "encuesta": "https://forms.gle/cEqHBsoFABrRAEJz9"
+                    },
+                    {
+                        "nombre": "Fabían Ávila Elizalde",
+                        "materias": [
+                            "PRODUCCIÓN DE MÚSICA ELECTRÓNICA"
+                        ],
+                        "encuesta": "https://forms.gle/EdREGbDACPzBTdwP9"
+                    },
+                    {
+                        "nombre": "Leonel Martínez Hurtado",
+                        "materias": [
+                            "SISTEMAS DE REFUERZO SONORO E ILUMINACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/CvhQAMboqK9Wuucn7"
+                    },
+                    {
+                        "nombre": "Raúl de Jesús Bustos Castañeda",
+                        "materias": [
+                            "TRANSMISIÓN Y GRABACIÓN EN DIRECTO"
+                        ],
+                        "encuesta": "https://forms.gle/SJCWE8oyn3BudwbJA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED1021.2",
+                "profesores": [
+                    {
+                        "nombre": "Gabriel Mendoza Cabrera",
+                        "materias": [
+                            "PRODUCCIÓN EJECUTIVA DE EVENTOS"
+                        ],
+                        "encuesta": "https://forms.gle/djtvAHJRwW2VSKgs7"
+                    },
+                    {
+                        "nombre": "José Luis Rodriguez Castaño",
+                        "materias": [
+                            "TÉCNICAS DE MEZCLA I"
+                        ],
+                        "encuesta": "https://forms.gle/cEqHBsoFABrRAEJz9"
+                    },
+                    {
+                        "nombre": "Fabían Ávila Elizalde",
+                        "materias": [
+                            "PRODUCCIÓN DE MÚSICA ELECTRÓNICA"
+                        ],
+                        "encuesta": "https://forms.gle/EdREGbDACPzBTdwP9"
+                    },
+                    {
+                        "nombre": "Leonel Martínez Hurtado",
+                        "materias": [
+                            "SISTEMAS DE REFUERZO SONORO E ILUMINACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/CvhQAMboqK9Wuucn7"
+                    },
+                    {
+                        "nombre": "Raúl de Jesús Bustos Castañeda",
+                        "materias": [
+                            "TRANSMISIÓN Y GRABACIÓN EN DIRECTO"
+                        ],
+                        "encuesta": "https://forms.gle/SJCWE8oyn3BudwbJA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0720.1",
+                "profesores": [
+                    {
+                        "nombre": "Jonatan Alí Mejía Cortés",
+                        "materias": [
+                            "INDUSTRIA INTERACTIVA",
+                            "APLICACIONES ESPECIALIZADAS II"
+                        ],
+                        "encuesta": "https://forms.gle/i4LCZaDRZKQ4jdDF6"
+                    },
+                    {
+                        "nombre": "Ulises Hadjis Labarca",
+                        "materias": [
+                            "SEMINARIO DE TITULACIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/LB96XRUKHamUYQKH8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0722.1",
+                "profesores": [
+                    {
+                        "nombre": "Portafolio SAE",
+                        "materias": [
+                            "PORTAFOLIO SAE"
+                        ],
+                        "encuesta": "https://forms.gle/VjninD9yTejCtqgMA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AED0722.2",
+                "profesores": [
+                    {
+                        "nombre": "Portafolio SAE",
+                        "materias": [
+                            "PORTAFOLIO SAE"
+                        ],
+                        "encuesta": "https://forms.gle/VjninD9yTejCtqgMA"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "carrera": "Licenciatura en Ciencias de la Comunicación y Nuevos Medios",
+        "grupos": [
+            {
+                "grupo": "CCNM0122",
+                "profesores": [
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": [
+                            "EDICIÓN Y DISEÑO SONORO"
+                        ],
+                        "encuesta": "https://forms.gle/77zFC96dtVBWfrTz5"
+                    },
+                    {
+                        "nombre": "Ivonne Elizabeth Ariadna Castañeda Tovar",
+                        "materias": [
+                            "PRODUCCIÓN DE MEDIOS IMPRESOS"
+                        ],
+                        "encuesta": "https://forms.gle/Z1UVsK1sLALTnjJMA"
+                    },
+                    {
+                        "nombre": "Rodrigo Aragón Cuahonte",
+                        "materias": [
+                            "PRODUCCIÓN AUDIOVISUAL",
+                            "TRANSMEDIA STORYTELLING"
+                        ],
+                        "encuesta": "https://forms.gle/KbHs6LB4fUfv5qqB8"
+                    },
+                    {
+                        "nombre": "Ángel Dehesa Christilieb",
+                        "materias": [
+                            "ARGUMENTACIÓN Y PERSUASIÓN",
+                            "ÉTICA PROFESIONAL"
+                        ],
+                        "encuesta": "https://forms.gle/3D9xwBjyvM96Ln4U7"
+                    }
+                ]
+            },
+            {
+                "grupo": "CCNM0721",
+                "profesores": [
+                    {
+                        "nombre": "Ivonne Elizabeth Ariadna Castañeda Tovar",
+                        "materias": [
+                            "VISUALIZACIÓN DE DATOS Y MEDIOS INTERACTIVOS"
+                        ],
+                        "encuesta": "https://forms.gle/Z1UVsK1sLALTnjJMA"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": [
+                            "EFECTOS VISUALES POR SISTEMA DE CAPAS"
+                        ],
+                        "encuesta": "https://forms.gle/LSa6N4AgY9XuvidD9"
+                    },
+                    {
+                        "nombre": "Donovan Romero Hurtado",
+                        "materias": [
+                            "PRODUCCIÓN PARA TELEVISIÓN, SERIES WEB Y CONTENIDO MÓVIL"
+                        ],
+                        "encuesta": "https://forms.gle/BXh4w3qmBKFPYqKQ7"
+                    },
+                    {
+                        "nombre": "Nora Cecilia Córdoba Barrera",
+                        "materias": [
+                            "PRODUCCIÓN DE EXPERIENCIAS"
+                        ],
+                        "encuesta": "https://forms.gle/4mbBydfV2HWVa4Ww8"
+                    },
+                    {
+                        "nombre": "Silverio Zambrano González",
+                        "materias": [
+                            "INTRODUCICÓN A LA CONTABILIDAD"
+                        ],
+                        "encuesta": "https://forms.gle/Y6ouc5KmrkyDv4Pt8"
+                    },
+                    {
+                        "nombre": "Martín García Contreras",
+                        "materias": [
+                            "GUIÓN GRÁFICO Y PREVISUALIZACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/xBanA5ZcXxsrf1Pq7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "carrera": "Licenciatura en Cine Digital y Post Producción",
+        "grupos": [
+            {
+                "grupo": "DFD0722.1",
+                "profesores": [
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": [
+                            "EDICIÓN DE SONIDO"
+                        ],
+                        "encuesta": "https://forms.gle/77zFC96dtVBWfrTz5"
+                    },
+                    {
+                        "nombre": "Arian Juan Adolfo Sánchez Covisa Rocha",
+                        "materias": [
+                            "CINEFOTOGRAFÍA DIGITAL II"
+                        ],
+                        "encuesta": "https://forms.gle/3Sn5AUcBMkEF4RBe8"
+                    },
+                    {
+                        "nombre": "Danny José Serrano Dugarte",
+                        "materias": [
+                            "DIRECCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/Lzp4S36oeeA4pHR59"
+                    },
+                    {
+                        "nombre": "Eduardo Venado Chávez",
+                        "materias": [
+                            "PRODUCCIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/3dRpB6WVoaN6vfwz6"
+                    },
+                    {
+                        "nombre": "Enrique Sánchez Lores",
+                        "materias": [
+                            "GUIÓN II"
+                        ],
+                        "encuesta": "https://forms.gle/2R8ruf4ZF14pLU8R9"
+                    },
+                    {
+                        "nombre": "Gustavo Alberto Melendez Madrid",
+                        "materias": [
+                            "POST PRODUCCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/zhb9B4tSuq1jMDebA"
+                    },
+                    {
+                        "nombre": "Víctor Hugo Magaña Fernández",
+                        "materias": [
+                            "DINAMICAS DE RODAJE"
+                        ],
+                        "encuesta": "https://forms.gle/3RSvJkFnofKnw6o58"
+                    },
+                    {
+                        "nombre": "Ana Marlen Farjat Ríos",
+                        "materias": [
+                            "MONTAJE AUDIOVISUAL"
+                        ],
+                        "encuesta": "https://forms.gle/WcC3qxhSAdYyCWQCA"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD0722.2",
+                "profesores": [
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": [
+                            "EDICIÓN DE SONIDO"
+                        ],
+                        "encuesta": "https://forms.gle/77zFC96dtVBWfrTz5"
+                    },
+                    {
+                        "nombre": "Arian Juan Adolfo Sánchez Covisa Rocha",
+                        "materias": [
+                            "CINEFOTOGRAFÍA DIGITAL II"
+                        ],
+                        "encuesta": "https://forms.gle/3Sn5AUcBMkEF4RBe8"
+                    },
+                    {
+                        "nombre": "Danny José Serrano Dugarte",
+                        "materias": [
+                            "DIRECCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/Lzp4S36oeeA4pHR59"
+                    },
+                    {
+                        "nombre": "Eduardo Franco Bautista",
+                        "materias": [
+                            "PRODUCCIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/bffbovUbpwCvisDq9"
+                    },
+                    {
+                        "nombre": "Enrique Sánchez Lores",
+                        "materias": [
+                            "GUIÓN II"
+                        ],
+                        "encuesta": "https://forms.gle/2R8ruf4ZF14pLU8R9"
+                    },
+                    {
+                        "nombre": "Ana Marlen Farjat Ríos",
+                        "materias": [
+                            "MONTAJE AUDIOVISUAL"
+                        ],
+                        "encuesta": "https://forms.gle/WcC3qxhSAdYyCWQCA"
+                    },
+                    {
+                        "nombre": "Veronique Marie Decroux González Aragón",
+                        "materias": [
+                            "DINAMICAS DE RODAJE"
+                        ],
+                        "encuesta": "https://forms.gle/iqsXwKMJjU6qAAz5A"
+                    },
+                    {
+                        "nombre": "Rogelio Galván López",
+                        "materias": [
+                            "POST PRODUCCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/AnB64PTFhwCg3VAy7"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD0722.3",
+                "profesores": [
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": [
+                            "EDICIÓN DE SONIDO"
+                        ],
+                        "encuesta": "https://forms.gle/77zFC96dtVBWfrTz5"
+                    },
+                    {
+                        "nombre": "Adriana José González Velasquéz",
+                        "materias": [
+                            "DINAMICAS DE RODAJE"
+                        ],
+                        "encuesta": "https://forms.gle/WFk4AkECD4TurKPu6"
+                    },
+                    {
+                        "nombre": "Arian Juan Adolfo Sánchez Covisa Rocha",
+                        "materias": [
+                            "CINEFOTOGRAFÍA DIGITAL II"
+                        ],
+                        "encuesta": "https://forms.gle/3Sn5AUcBMkEF4RBe8"
+                    },
+                    {
+                        "nombre": "Danny José Serrano Dugarte",
+                        "materias": [
+                            "DIRECCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/Lzp4S36oeeA4pHR59"
+                    },
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "PRODUCCIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/3dRpB6WVoaN6vfwz6"
+                    },
+                    {
+                        "nombre": "Enrique Sánchez Lores",
+                        "materias": [
+                            "GUIÓN II"
+                        ],
+                        "encuesta": "https://forms.gle/2R8ruf4ZF14pLU8R9"
+                    },
+                    {
+                        "nombre": "Ana Marlen Farjat Ríos",
+                        "materias": [
+                            "MONTAJE AUDIOVISUAL"
+                        ],
+                        "encuesta": "https://forms.gle/WcC3qxhSAdYyCWQCA"
+                    },
+                    {
+                        "nombre": "Rogelio Galván López",
+                        "materias": [
+                            "POST PRODUCCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/AnB64PTFhwCg3VAy7"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD0722.4",
+                "profesores": [
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": [
+                            "EDICIÓN DE SONIDO"
+                        ],
+                        "encuesta": "https://forms.gle/77zFC96dtVBWfrTz5"
+                    },
+                    {
+                        "nombre": "Arian Juan Adolfo Sánchez Covisa Rocha",
+                        "materias": [
+                            "CINEFOTOGRAFÍA DIGITAL II"
+                        ],
+                        "encuesta": "https://forms.gle/3Sn5AUcBMkEF4RBe8"
+                    },
+                    {
+                        "nombre": "Danny José Serrano Dugarte",
+                        "materias": [
+                            "DIRECCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/Lzp4S36oeeA4pHR59"
+                    },
+                    {
+                        "nombre": "Eduardo Franco Bautista",
+                        "materias": [
+                            "PRODUCCIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/bffbovUbpwCvisDq9"
+                    },
+                    {
+                        "nombre": "Enrique Sánchez Lores",
+                        "materias": [
+                            "GUIÓN II"
+                        ],
+                        "encuesta": "https://forms.gle/2R8ruf4ZF14pLU8R9"
+                    },
+                    {
+                        "nombre": "Gustavo Alberto Melendez Madrid",
+                        "materias": [
+                            "POST PRODUCCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/zhb9B4tSuq1jMDebA"
+                    },
+                    {
+                        "nombre": "Ana Marlen Farjat Ríos",
+                        "materias": [
+                            "MONTAJE AUDIOVISUAL"
+                        ],
+                        "encuesta": "https://forms.gle/WcC3qxhSAdYyCWQCA"
+                    },
+                    {
+                        "nombre": "Veronique Marie Decroux González Aragón",
+                        "materias": [
+                            "DINAMICAS DE RODAJE"
+                        ],
+                        "encuesta": "https://forms.gle/iqsXwKMJjU6qAAz5A"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD0721.1",
+                "profesores": [
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": [
+                            "EDICIÓN Y DISEÑO SONORO AVANZADO"
+                        ],
+                        "encuesta": "https://forms.gle/77zFC96dtVBWfrTz5"
+                    },
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "BANDA SONORA"
+                        ],
+                        "encuesta": "https://forms.gle/BQ7WVQjF9tmXctXj6"
+                    },
+                    {
+                        "nombre": "César Ortiz Yañez",
+                        "materias": [
+                            "DISTRIBUCIÓN Y MARKETING"
+                        ],
+                        "encuesta": "https://forms.gle/8VSNycwud3Cmz3Ff9"
+                    },
+                    {
+                        "nombre": "Gustavo Alberto Melendez Madrid",
+                        "materias": [
+                            "POST-PRODUCCIÓN AVANZADA"
+                        ],
+                        "encuesta": "https://forms.gle/zhb9B4tSuq1jMDebA"
+                    },
+                    {
+                        "nombre": "Mario Alfredo Viveros Barragán",
+                        "materias": [
+                            "PROYECTO DOCUMENTAL II"
+                        ],
+                        "encuesta": "https://forms.gle/U9Q3mgbvaZYTtCeE8"
+                    },
+                    {
+                        "nombre": "Juan Pablo Ramos Jiménez",
+                        "materias": [
+                            "TALLER AVANZADO DE MONTAJE DOCUMENTAL"
+                        ],
+                        "encuesta": "https://forms.gle/hWk8CfNPMMXt18SN9"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": [
+                            "EFECTOS VISUALES II"
+                        ],
+                        "encuesta": "https://forms.gle/sFbx4phemJWAeyPm6"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD0721.2",
+                "profesores": [
+                    {
+                        "nombre": "Eduardo de la Vara Brown",
+                        "materias": [
+                            "BANDA SONORA"
+                        ],
+                        "encuesta": "https://forms.gle/BQ7WVQjF9tmXctXj6"
+                    },
+                    {
+                        "nombre": "César Ortiz Yañez",
+                        "materias": [
+                            "DISTRIBUCIÓN Y MARKETING"
+                        ],
+                        "encuesta": "https://forms.gle/8VSNycwud3Cmz3Ff9"
+                    },
+                    {
+                        "nombre": "Gustavo Alberto Melendez Madrid",
+                        "materias": [
+                            "POST- PRODUCCIÓN AVANZADA"
+                        ],
+                        "encuesta": "https://forms.gle/zhb9B4tSuq1jMDebA"
+                    },
+                    {
+                        "nombre": "José de Jesús Gutiérrez García",
+                        "materias": [
+                            "EDICIÓN Y DISEÑO SONORO AVANZADO"
+                        ],
+                        "encuesta": "https://forms.gle/GYjm7fWBYnuia2qP7"
+                    },
+                    {
+                        "nombre": "Mario Alfredo Viveros Barragán",
+                        "materias": [
+                            "PROYECTO DOCUMENTAL II"
+                        ],
+                        "encuesta": "https://forms.gle/U9Q3mgbvaZYTtCeE8"
+                    },
+                    {
+                        "nombre": "Juan Pablo Ramos Jiménez",
+                        "materias": [
+                            "TALLER AVANZADO DE MONTAJE DOCUMENTAL"
+                        ],
+                        "encuesta": "https://forms.gle/hWk8CfNPMMXt18SN9"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": [
+                            "EFECTOS VISUALES II"
+                        ],
+                        "encuesta": "https://forms.gle/sFbx4phemJWAeyPm6"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD1022",
+                "profesores": [
+                    {
+                        "nombre": "Antonio Camarillo Vázquez",
+                        "materias": [
+                            "GÉNEROS CINEMATOGRÁFICOS"
+                        ],
+                        "encuesta": "https://forms.gle/MJ15Tz7UwJNFunYF6"
+                    },
+                    {
+                        "nombre": "María Alexandra Hernández Minues",
+                        "materias": [
+                            "ACTUACIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/y71cahp8XkyAMsaE8"
+                    },
+                    {
+                        "nombre": "Ana Cecilia Llanes Briceño",
+                        "materias": [
+                            "DISEÑO DE PRODUCCIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/4zxTCxgkQ3asd86S6"
+                    },
+                    {
+                        "nombre": "Arian Juan Adolfo Sánchez Covisa Rocha",
+                        "materias": [
+                            "CINEFOTOGRAFÍA DIGITAL I"
+                        ],
+                        "encuesta": "https://forms.gle/3Sn5AUcBMkEF4RBe8"
+                    },
+                    {
+                        "nombre": "César Alberto Uriarte RIvera",
+                        "materias": [
+                            "PUESTA EN ESCENA"
+                        ],
+                        "encuesta": "https://forms.gle/nwadoMpKTwrsvhL28"
+                    },
+                    {
+                        "nombre": "Enrique Sánchez Lores",
+                        "materias": [
+                            "GUIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/2R8ruf4ZF14pLU8R9"
+                    },
+                    {
+                        "nombre": "Francisco Bribiesca Páramo",
+                        "materias": [
+                            "SONIDO DIRECTO"
+                        ],
+                        "encuesta": "https://forms.gle/Qapo547kXzPmtS6C9"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD0121",
+                "profesores": [
+                    {
+                        "nombre": "César Ortiz Yañez",
+                        "materias": [
+                            "NEGOCIOS DE LOS NUEVOS MEDIOS"
+                        ],
+                        "encuesta": "https://forms.gle/8VSNycwud3Cmz3Ff9"
+                    },
+                    {
+                        "nombre": "Enrique Arroyo Schroeder",
+                        "materias": [
+                            "GUION PARA PROYECTO FINAL"
+                        ],
+                        "encuesta": "https://forms.gle/u1MLGde79z5yRizK9"
+                    },
+                    {
+                        "nombre": "Erika Licea Orozco",
+                        "materias": [
+                            "PUESTA EN CÁMARA"
+                        ],
+                        "encuesta": "https://forms.gle/C6n5Pu1zqM1WdkXBA"
+                    },
+                    {
+                        "nombre": "Leslie Marlen Castro Pérez",
+                        "materias": [
+                            "DESARROLLO DE CARPETA I"
+                        ],
+                        "encuesta": "https://forms.gle/zu8sQ79Dh6eBR5XE7"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": [
+                            "DIRECCIÓN Y PRODUCCIÓN  PARA PROYECTO FINAL I"
+                        ],
+                        "encuesta": "https://forms.gle/sFbx4phemJWAeyPm6"
+                    },
+                    {
+                        "nombre": "Samuel González Lugo",
+                        "materias": [
+                            "SEMIOTICA DE LA CIENCIA Y LA CULTURA"
+                        ],
+                        "encuesta": "https://forms.gle/tfKx2DEwXP7k8VWA8"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD0122.1",
+                "profesores": [
+                    {
+                        "nombre": "César Alberto Uriarte RIvera",
+                        "materias": [
+                            "REALIZACIÓN DOCUMENTAL I"
+                        ],
+                        "encuesta": "https://forms.gle/nwadoMpKTwrsvhL28"
+                    },
+                    {
+                        "nombre": "Francisco Bribiesca Páramo",
+                        "materias": [
+                            "SONIDO DIRECTO PARA DOCUMENTAL"
+                        ],
+                        "encuesta": "https://forms.gle/Qapo547kXzPmtS6C9"
+                    },
+                    {
+                        "nombre": "José de Jesús Gutiérrez García",
+                        "materias": [
+                            "CINEFOTOGRAFÍA DOCUMENTAL"
+                        ],
+                        "encuesta": "https://forms.gle/eSimcHJj1S75LW5s5"
+                    },
+                    {
+                        "nombre": "Leonardo Antuña Garza",
+                        "materias": [
+                            "ASPECTOS LEGALES"
+                        ],
+                        "encuesta": "https://forms.gle/uu7wqhptS7vJS1dC7"
+                    },
+                    {
+                        "nombre": "Leslie Marlen Castro Pérez",
+                        "materias": [
+                            "PRODUCCIÓN III"
+                        ],
+                        "encuesta": "https://forms.gle/zu8sQ79Dh6eBR5XE7"
+                    },
+                    {
+                        "nombre": "Mario Alfredo Viveros Barragán",
+                        "materias": [
+                            "DOCUMENTAL"
+                        ],
+                        "encuesta": "https://forms.gle/U9Q3mgbvaZYTtCeE8"
+                    },
+                    {
+                        "nombre": "Natalia María Mercado Hernández",
+                        "materias": [
+                            "CORRECCIÓN DE COLOR"
+                        ],
+                        "encuesta": "https://forms.gle/nYPvfCvV4w2jcYYT8"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD0122.2",
+                "profesores": [
+                    {
+                        "nombre": "César Alberto Uriarte RIvera",
+                        "materias": [
+                            "REALIZACIÓN DOCUMENTAL I"
+                        ],
+                        "encuesta": "https://forms.gle/nwadoMpKTwrsvhL28"
+                    },
+                    {
+                        "nombre": "Francisco Bribiesca Páramo",
+                        "materias": [
+                            "SONIDO DIRECTO PARA DOCUMENTAL"
+                        ],
+                        "encuesta": "https://forms.gle/Qapo547kXzPmtS6C9"
+                    },
+                    {
+                        "nombre": "José de Jesús Gutiérrez García",
+                        "materias": [
+                            "CINEFOTOGRAFÍA DOCUMENTAL"
+                        ],
+                        "encuesta": "https://forms.gle/eSimcHJj1S75LW5s5"
+                    },
+                    {
+                        "nombre": "Leonardo Antuña Garza",
+                        "materias": [
+                            "ASPECTOS LEGALES"
+                        ],
+                        "encuesta": "https://forms.gle/uu7wqhptS7vJS1dC7"
+                    },
+                    {
+                        "nombre": "Leslie Marlen Castro Pérez",
+                        "materias": [
+                            "PRODUCCIÓN III"
+                        ],
+                        "encuesta": "https://forms.gle/zu8sQ79Dh6eBR5XE7"
+                    },
+                    {
+                        "nombre": "Mario Alfredo Viveros Barragán",
+                        "materias": [
+                            "DOCUMENTAL"
+                        ],
+                        "encuesta": "https://forms.gle/U9Q3mgbvaZYTtCeE8"
+                    },
+                    {
+                        "nombre": "Natalia María Mercado Hernández",
+                        "materias": [
+                            "CORRECCIÓN DE COLOR"
+                        ],
+                        "encuesta": "https://forms.gle/nYPvfCvV4w2jcYYT8"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD1021",
+                "profesores": [
+                    {
+                        "nombre": "César Alberto Uriarte RIvera",
+                        "materias": [
+                            "REALIZACIÓN DOCUMENTAL II"
+                        ],
+                        "encuesta": "https://forms.gle/nwadoMpKTwrsvhL28"
+                    },
+                    {
+                        "nombre": "José de Jesús Gutiérrez García",
+                        "materias": [
+                            "CINEFOTOGRAFÍA DOCUMENTAL II"
+                        ],
+                        "encuesta": "https://forms.gle/eSimcHJj1S75LW5s5"
+                    },
+                    {
+                        "nombre": "Mario Alfredo Viveros Barragán",
+                        "materias": [
+                            "PROYECTO DOCUMENTAL I"
+                        ],
+                        "encuesta": "https://forms.gle/U9Q3mgbvaZYTtCeE8"
+                    },
+                    {
+                        "nombre": "Natalia María Mercado Hernández",
+                        "materias": [
+                            "CORRECCION DE COLOR AVANZADA"
+                        ],
+                        "encuesta": "https://forms.gle/nYPvfCvV4w2jcYYT8"
+                    },
+                    {
+                        "nombre": "Juan Pablo Ramos Jiménez",
+                        "materias": [
+                            "MONTAJE DOCUMENTAL"
+                        ],
+                        "encuesta": "https://forms.gle/hWk8CfNPMMXt18SN9"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": [
+                            "EFECTOS VISUALES I"
+                        ],
+                        "encuesta": "https://forms.gle/sFbx4phemJWAeyPm6"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD0123.1",
+                "profesores": [
+                    {
+                        "nombre": "Cuauhtémoc Tonatiuh Hernández Duque",
+                        "materias": [
+                            "ACTUACIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/z7CdHGh2qRpHR9Dt6"
+                    },
+                    {
+                        "nombre": "Francisco Bribiesca Páramo",
+                        "materias": [
+                            "PRINCIPIOS DEL SONIDO"
+                        ],
+                        "encuesta": "https://forms.gle/Qapo547kXzPmtS6C9"
+                    },
+                    {
+                        "nombre": "Víctor Hugo Magaña Fernández",
+                        "materias": [
+                            "DINAMICAS DE RODAJE"
+                        ],
+                        "encuesta": "https://forms.gle/3RSvJkFnofKnw6o58"
+                    },
+                    {
+                        "nombre": "Iker Compeán Leroux",
+                        "materias": [
+                            "GÉNEROS DRAMÁTICOS"
+                        ],
+                        "encuesta": "https://forms.gle/BcsJSYh1mr5kKpCv8"
+                    },
+                    {
+                        "nombre": "Ismael Cruz Mondragon",
+                        "materias": [
+                            "FUNDAMENTOS DE LA CINEFOTOGRAFÍA"
+                        ],
+                        "encuesta": "https://forms.gle/on59vVWTLmpa25716"
+                    },
+                    {
+                        "nombre": "Juan Manuel Bilbao Kuri",
+                        "materias": [
+                            "BASES DE LA EDICIÓN"
+                        ],
+                        "encuesta": "https://forms.gle/15KiLakBrUvP1jeKA"
+                    },
+                    {
+                        "nombre": "Manuel Vergara González",
+                        "materias": [
+                            "GRAMÁTICA VISUAL"
+                        ],
+                        "encuesta": "https://forms.gle/QpjtwLE9nKQ4fohk7"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD1020",
+                "profesores": [
+                    {
+                        "nombre": "Erika Licea Orozco",
+                        "materias": [
+                            "PUESTA EN CAMARA"
+                        ],
+                        "encuesta": "https://forms.gle/C6n5Pu1zqM1WdkXBA"
+                    },
+                    {
+                        "nombre": "José de Jesús Gutiérrez García",
+                        "materias": [
+                            "TALLER DE CINEFOTOGRAFÍA PARA PROYECTO FINAL I"
+                        ],
+                        "encuesta": "https://forms.gle/eSimcHJj1S75LW5s5"
+                    },
+                    {
+                        "nombre": "Leslie Marlen Castro Pérez",
+                        "materias": [
+                            "DESARROLLO DE CARPETA II"
+                        ],
+                        "encuesta": "https://forms.gle/zu8sQ79Dh6eBR5XE7"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": [
+                            "DIRECCIÓN Y PRODUCCIÓN  PARA PROYECTO FINAL II"
+                        ],
+                        "encuesta": "https://forms.gle/sFbx4phemJWAeyPm6"
+                    },
+                    {
+                        "nombre": "Samuel González Lugo",
+                        "materias": [
+                            "SEMINARIO DE TITULACIÓN I"
+                        ],
+                        "encuesta": "https://forms.gle/tfKx2DEwXP7k8VWA8"
+                    },
+                    {
+                        "nombre": "Roberto Sandoval Ramírez",
+                        "materias": [
+                            "TALLER AVANZADO DE GUIÓN PARA PROYECTO FINAL"
+                        ],
+                        "encuesta": "https://forms.gle/KHKPto63U57pwKmp7"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD0720",
+                "profesores": [
+                    {
+                        "nombre": "José de Jesús Gutiérrez García",
+                        "materias": [
+                            "TALLER DE CINEFOTOGRAFÍA PARA PROYECTO FINAL II"
+                        ],
+                        "encuesta": "https://forms.gle/eSimcHJj1S75LW5s5"
+                    },
+                    {
+                        "nombre": "Leslie Marlen Castro Pérez",
+                        "materias": [
+                            "TALLER DE PRODUCCIÓN DE PROYECTO FINAL"
+                        ],
+                        "encuesta": "https://forms.gle/zu8sQ79Dh6eBR5XE7"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": [
+                            "TALLER DE DIRECCIÓN DE PROYECTO FINAL"
+                        ],
+                        "encuesta": "https://forms.gle/sFbx4phemJWAeyPm6"
+                    }
+                ]
+            }
+        ]
+    }
+]
